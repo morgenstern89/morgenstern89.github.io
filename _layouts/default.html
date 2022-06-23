@@ -32,7 +32,7 @@ layout: compress
                 @media (prefers-color-scheme: dark)
                     {
                         {% include style-dark.scss %}
-                    } {% endcaptures %}}
+                    } {% endcapture %}}
         {% elsif site.dark-theme %}
             {% capture scss_sheet %} {% include style-dark.scss %} {% endcapture %}
         {% else %}
