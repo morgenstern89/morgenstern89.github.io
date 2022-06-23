@@ -477,7 +477,10 @@ pre {
     border: 1px solid #ededed;
     border-radius: 2px;
 }
-.wrapper-normal,
+.wrapper-normal{
+    max-width: 560px;
+    
+}
 .wrapper-large {
     height: 100%;
     width: 96%;
