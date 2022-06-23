@@ -624,6 +624,7 @@ pre {
     width: 50%;
     margin: 0 auto;
     display: block;
+    padding: 35px;
 }
 .post {
     margin-top: 125px;
