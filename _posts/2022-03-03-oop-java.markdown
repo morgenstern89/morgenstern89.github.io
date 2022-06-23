@@ -1,0 +1,38 @@
+---
+title: ":bookmark_tabs: OOP with JAVA"
+layout: post
+date: 2022-03-03 22:10
+tag: jekyll
+image: /assets/images/javaintellij.png
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "Object-Oriented Programming(OOP) with JAVA."
+category: project
+author: sarahyoon
+externalLink: false
+---
+## About Project
+
+**JAVA Practice**
+
+**Goal: Understanding the basic of object oriented programming(OOP) language.**
+
+This was part of a [**Software Testing Bootcamp**](/assets/images/bootcamp.jpg) course which was taken during February to March 2022. Particularly interesting part of the exercises was to learn the 'class' concept which objects can be categorized/ grouped in a class.
+
+
+---
+
+## Technique
+
+Learned the very basic of **JAVA** as a programming language.
+Instead of using **Eclipse**, for the first time the editor **IntelliJ IDEA** was introduced and it was very intuitive coding tool particularly for the beginners.
+
+---
+
+## Take a Look
+
+- [Go to Git Repository: Practice Java 1](https://github.com/morgenstern89/Practice-Java-1/tree/master/src/practice) 
+- [Go to Git Repository: Practice Java 2](https://github.com/morgenstern89/PracticeJava2/tree/master/src/practice2) 
+- [Go to Git Repository: Practice Java 3](https://github.com/morgenstern89/PracticeJava3/tree/master/src/practice3) 
+

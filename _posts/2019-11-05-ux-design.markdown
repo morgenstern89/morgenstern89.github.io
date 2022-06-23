@@ -1,0 +1,53 @@
+---
+title: ":iphone: User Experience Design"
+layout: post
+date: 2019-11-05 22:10
+tag: jekyll
+image: /assets/images/Prototype Adobe XD canvas view.PNG
+headerImage: true
+projects: true
+hidden: true
+description: UX Design (from user research to wireframing) for a mobile flight booking app.
+category: project
+author: sarahyoon
+externalLink: false
+
+---
+
+## About Project
+
+**Goal:Understanding UX Design process and as a final outcome creating wireframe of a mobile application.**
+
+After defining the user requirements through user research(interview, survey, usability tests), captured the gathered data and grouped these into an affinity diagram. Then came up with a customer journey map. Based on this, started drafting high-level sketch of a mobile flight booking app and then digitalized this into wireframe. 
+
+This program was my first step closer to the Tech domain, however still without coding knowledge involved. During this time,  I have learned the understanding in **Digital Product Development Lifecycle** and **Design Thinking** as a work mentality. 
+
+Based on the outcome, later on, I could further invest on more tech-savvy knowledge such as basic programming, agile software development approach and finally software test management which aligns with this framework.
+
+This work was the final project of the program **Professional Diploma in UX Design** at **UX Design Institute**. My cohort of the program was enrolled in **Fall 2018** and completed with the **final examination in 2020**.
+
+[Professional Diploma in UX Deaign](/assets/images/uxdesigndiploma.PNG)
+
+---
+
+## Technique
+
+- User Research: Video-calls, In-person interviews, online survey 
+- Affiliate diagram & Customer Journey (using **Persona**)
+- High-Level navigation flow sketch and drafting
+- **Adobe XD** and **Adobe Photoshop** to digitalize the prototypes
+- **Marvel App** for interactive prototyping
+- Wireframe Documentation including detailed description on the UX approach of the product
+
+---
+
+## Take a Look
+- [Affinity Diagram](/assets/docs/Project%205_Affinity%20Diagram_Yoon_20190925.pdf) 
+- [Customer Journey Map](/assets/images/customerjourney.PNG) 
+- [Defining Navigation](/assets/docs/Project%2010_Define%20Navigation%20for%20Mobile_Yoon_20190926.pdf) 
+- Interaction Design
+    - [Video 1](/assets/videos/Final%20Prototype%20Interaction_video.mp4) 
+    - [Video 2](/assets/videos/Final%20Prototype%20Interaction_video2.mp4) 
+    - [Video 3](/assets/videos/Final%20Prototype%20Interaction_video3.mp4) 
+- [Final Wireframe Document](/assets/docs/Project%2016_Wireframe%20for%20Mobile_Yoon_20191105.pdf) 
+- [Flow View](/assets/images/Prototype%20Flows.PNG), [Overall View](/assets/images/Prototype%20Adobe%20XD%20canvas%20view.PNG)
