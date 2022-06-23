@@ -946,6 +946,7 @@ pre {
 .header-home > .title {
     font-size: 4rem;
     margin: 0 0 13px;
+    color: #183a3d;
 }
 .header-home > .description {
     font-size: 1.85rem;
