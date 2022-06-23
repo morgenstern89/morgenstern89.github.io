@@ -30,11 +30,13 @@ layout: compress
             {% capture scss_sheet %}
                 {% include style.scss %}
                 @media (prefers-color-scheme: dark)
-                {{% include style-dark.scss %}}{% endcapture %}
+                    {
+                        {% include style-dark.scss %}
+                    } {% endCaptures %}}
         {% elsif site.dark-theme %}
-            {% capture scss_sheet %}   {% include style-dark.scss %}{% endcapture %}
+            {% capture scss_sheet %} {% include style-dark.scss %} {% endCapture %}
         {% else %}
-            {% capture scss_sheet %}{% include style.scss %}{% endcapture %}
+            {% capture scss_sheet %} {% include style.scss %} {% endCapture %}
         {% endif %}
 
         {{ scss_sheet | scssify }}
@@ -42,7 +44,7 @@ layout: compress
 
 </head>
 <body>
-    <div class="wrapper-{% if site.width == "normal" %}normal{% elsif site.width == "large" %}large{% endif %}">
+    <div class="wrapper-{% if site.width == "normal" %} normal{% elsif site.width == "large" %}large{% endif %}">
         {% if page.layout == "post" %}
             <div class="post">
         {% else %}
