@@ -37,4 +37,4 @@ The course ran **from the year 2017 to year 2018**.
 
 - [Click here to see the final portfolio](/assets/docs/OfG%20Studium_Grafikdesign_Monat12_Abschlussprojekt_Yoon.pdf)
 
-- [Completion of Course](/assets/images/OfG%20Grafikdesign%20Abschlusszertifikat_Yoon.jpg)
+- [Completion of Course](/assets/images/OfGGrafikdesign%20Abschlusszertifikat_Yoon.jpg)
