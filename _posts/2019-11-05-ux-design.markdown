@@ -3,7 +3,7 @@ title: ":iphone: User Experience Design"
 layout: post
 date: 2019-11-05 22:10
 tag: jekyll
-image: /assets/images/Prototype Adobe XD canvas view.PNG
+image: /assets/images/Prototype.PNG
 headerImage: true
 projects: true
 hidden: true
@@ -50,4 +50,4 @@ This work was the final project of the program **Professional Diploma in UX Desi
     - [Video 2](/assets/videos/Final%20Prototype%20Interaction_video2.mp4) 
     - [Video 3](/assets/videos/Final%20Prototype%20Interaction_video3.mp4) 
 - [Final Wireframe Document](/assets/docs/Project%2016_Wireframe%20for%20Mobile_Yoon_20191105.pdf) 
-- [Flow View](/assets/images/Prototype%20Flows.PNG), [Overall View](/assets/images/Prototype%20Adobe%20XD%20canvas%20view.PNG)
+- [Flow View](/assets/images/PrototypeFlows.PNG), [Overall View](/assets/images/Prototype.PNG)
