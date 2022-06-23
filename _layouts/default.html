@@ -30,7 +30,10 @@ layout: compress
     {% if site.dark-theme == "auto" %}
         {% capture scss_sheet %}
             {% include style.scss %}
-            @media (prefers-color-scheme: dark){{% include style-dark.scss %}}{% endcapture %}
+            @media (prefers-color-scheme: dark) {
+                {% include style-dark.scss %}
+            }
+        {% endcapture %}
     {% elsif site.dark-theme %}
         {% capture scss_sheet %}{% include style-dark.scss %}{% endcapture %}
     {% else %}
