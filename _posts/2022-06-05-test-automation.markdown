@@ -63,7 +63,7 @@ The duration of the below course works were **4 months (March - June 2022)**.
 
 ## Playwright E2E Automation 
 
-**Goal: Learning the E2E test automation using Playwright. **
+**Goal: Learning the E2E test automation using Playwright.**
 
 This was a good exercise which was included during the **Software Bootcamp course.**
 
