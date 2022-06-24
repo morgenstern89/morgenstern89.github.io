@@ -19,6 +19,12 @@
         </a>
     {% endif %}
 
+    {% if site.notion %}
+    <a class="link" data-title="{{ site.notion }}" href=""  rel="noopener">
+        <span class="iconify" data-icon="simple-icons:notion"></span>
+    </a>
+    {% endif %}
+    
     {% if site.linkedin %}
         <a class="link" data-title="linkedin.com/in/{{ site.linkedin }}" href="https://www.linkedin.com/in/{{ site.linkedin }}" target="_blank"  rel="noopener">
             <i class="fa-brands fa-linkedin"></i>
@@ -37,9 +43,5 @@
         </a>
     {% endif %}
 
-    {% if site.notion %}
-    <a class="link" data-title="{{ site.notion }}" href=""  rel="noopener">
-        <span class="iconify" data-icon="simple-icons:notion"></span>
-    </a>
-    {% endif %}
+  
 </div>
