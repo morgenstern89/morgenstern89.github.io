@@ -381,7 +381,7 @@ h4 {
     font-size: 1.6rem;
 }
 a {
-    color: #183a3d;
+    color: #385659;
     text-decoration: underline;
     font-weight: 300;
 }
@@ -399,7 +399,7 @@ p {
 }
 strong {
     font-weight: 400;
-    color: #000;
+    color:#385659;
 }
 ul li,
 ol li {
