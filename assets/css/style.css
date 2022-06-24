@@ -633,6 +633,7 @@ pre {
 .post > .title {
     text-align: center;
     margin-bottom: 3rem;
+    color:#183a3d;
 }
 .post > .date,
 .post > .post-tags {
@@ -1301,6 +1302,7 @@ pre {
     b,
     strong {
         font-weight: bolder;
+        color: #385659;
     }
     code,
     kbd,
