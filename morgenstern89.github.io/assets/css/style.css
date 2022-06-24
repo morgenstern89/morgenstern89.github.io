@@ -1240,6 +1240,7 @@ pre {
     width: 35px;
     color: #000;
     font-size: 20px;
+    vertical-align: middle;
 }
 .social-links > .link:hover > svg {
     color: #385659;
