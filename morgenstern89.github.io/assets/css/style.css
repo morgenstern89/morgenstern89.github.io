@@ -397,7 +397,7 @@ p {
     }
 }
 strong {
-    font-weight: 400;
+    font-weight: 500;
     color: #000;
 }
 ul li,
@@ -624,6 +624,7 @@ pre {
     width: 50%;
     margin: 0 auto;
     display: block;
+    padding: 35px;
 }
 .post {
     margin-top: 125px;
@@ -1879,9 +1880,8 @@ pre {
     }
     .about img {
         width: 50%;
-        margin: 0px 35px 0px 0px;
+        margin: 0 auto;
         display: block;
-        padding: 35px;
     }
     .post {
         margin-top: 125px;
