@@ -1235,7 +1235,7 @@ pre {
     margin: 0;
     text-decoration: none;
     position: relative;
-    display: inline-block;
+    display: inline-flex;
     height: 35px;
     width: 35px;
     color: #000;
