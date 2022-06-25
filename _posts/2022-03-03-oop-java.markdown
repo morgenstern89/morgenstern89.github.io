@@ -1,5 +1,5 @@
 ---
-title: ":java: OOP with JAVA"
+title: ":woman technologist: OOP with JAVA"
 layout: post
 date: 2022-03-03 22:10
 tag: jekyll
