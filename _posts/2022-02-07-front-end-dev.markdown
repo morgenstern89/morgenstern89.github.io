@@ -1,5 +1,5 @@
 ---
-title: ":computer: Front-End Web Development"
+title: ":desktop: Front-End Web Development"
 layout: post
 date: 2022-02-07 22:10
 tag: jekyll
