@@ -1,5 +1,5 @@
 ---
-title: ":wrench: Test Automation"
+title: ":gear: Test Automation"
 layout: post
 date: 2022-06-05 22:10
 tag: jekyll
