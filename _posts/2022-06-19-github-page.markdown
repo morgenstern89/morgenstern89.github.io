@@ -1,5 +1,5 @@
 ---
-title: ":pager: Github Page Portfolio"
+title: ":octocat: Github Page Portfolio"
 layout: post
 date: 2022-06-19 22:10
 tag: jekyll
