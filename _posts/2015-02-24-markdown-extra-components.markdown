@@ -5,6 +5,7 @@ date: 2016-02-24 22:48
 image: /assets/images/markdown.jpg
 headerImage: true
 projects: true
+hidden: true
 tag:
 - markdown
 - components
