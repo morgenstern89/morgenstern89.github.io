@@ -54,7 +54,7 @@ layout: page
 	<li>MS PowerBI Data Dashboard Visualization</li>
 	<li>Atlassian Jira (Digital Kanban, Bug Tracking)</li>
 	<li>GitHub (Version Controlling and Collaboration)</li>
-	<li>Jenkins & Docker (Basic Knowledge to CI&CD concept)</li>
+	<li>Jenkins & Docker (Basic Knowledge in CI&CD concept)</li>
 	<li>Slack (Team Communication)</li>
 </ul>
 
