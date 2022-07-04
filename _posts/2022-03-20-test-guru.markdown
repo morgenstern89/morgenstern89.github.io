@@ -2,7 +2,7 @@
 title: 🖥️ Website | Guru99
 layout: post
 date: 2022-03-20 22:48
-image: /assets/images/guru99.png
+image: /assets/images/guru99.jpg
 headerImage: true
 blog: true
 tag:
