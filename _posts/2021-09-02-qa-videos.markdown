@@ -2,7 +2,7 @@
 title: 📺 YouTube | QA Videos 
 layout: post
 date: 2021-09-02 22:48
-image: /assets/images/qavideos.png
+image: /assets/images/qavideos.JPG
 headerImage: true
 blog: true
 tag:
