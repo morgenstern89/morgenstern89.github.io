@@ -8,7 +8,7 @@ layout: page
 <br>Before navigating this site, let me tell you something: <i><strong>I am not a classical IT person.</strong></i>
 
 
-<p>My academic background is in the most human-centered field and my first corporate career began in Organizational Culture and HR Development. One day, I <i><strong>accidently</strong></i> landed in IT when the firm was under restructuring. Only one role was offering me a permanent job but from an infrastructure department to help change management and communication campaign of the technical service desk transformation program. A finger snap, I was repositioned to IT.
+<p>My academic background is in the most human-centered field and my first corporate career began in Organizational Development. One day, I <i><strong>accidently</strong></i> landed in IT when the firm was under restructuring. Only one role was offering me a permanent job but from an infrastructure department to help change management and communication campaign of the technical service desk transformation program. A finger snap, I was repositioned to IT.
 <p><strong><i> Hang on, a literature & sociology graduate will work for an IT team? </i></strong>
 <p>It was a shocking transition at that time, without ever realizing that this would later become a <strong>fateful movement</strong> in my entire career.</p>
 
