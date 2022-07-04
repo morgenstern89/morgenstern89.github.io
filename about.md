@@ -9,7 +9,7 @@ layout: page
 </br>
 
 
-<p>My academic background is in the most human-centered field and I started corporate career in Organizational Culture and Development. Then I <i><strong>accidently</strong></i> landed in IT when the firm was under restructuring. Only one role was offering me a permanent job but from an infrastructure department to help change management and communication campaign of the global technical service desk transformation. So one day, I was repositioned to IT.
+<p>My academic background is in the most human-centered field and I started corporate career in Organizational Culture and HR Development. Then I <i><strong>accidently</strong></i> landed in IT when the firm was under restructuring. Only one role was offering me a permanent job but from an infrastructure department to help change management and communication campaign of the global technical service desk transformation. So one day, I was repositioned to IT.
 <p><strong><i> Hang on, a literature & sociology graduates will work for an IT team? </i></strong>
 		<p>It was a shocking transition at that time, without ever realizing that this would later become a <strong>fateful movement</strong> in my entire career.</p>
 
