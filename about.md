@@ -6,7 +6,7 @@ layout: page
 
 <p>Welcome to my website.</p>
 <p>My name is <strong>Sarah</strong>. I have created this page to showcase my story, motivation, interests and skills to become a new software tester.
-<p>Before navigating this site, let me first tell you a story: <i><strong>I am not a classical IT person.</strong></i>
+<p>Before navigating this site, let me tell you something: <i><strong>I am not a classical IT person.</strong></i>
 </p>
 
 <p>My academic background is in the most human-centered field and I started corporate career in Organizational Culture and Development. Then one day, I <i><strong>accidently</strong></i> landed in IT when the firm was under restructuring and after my then temporary contract was not extended as the management wanted to open more senior roles to reform the HR. Only one role was offering me a permanent job where I was repositioned at IT infrastrucrure department, waiting for the global service desk transformation worldwide. 
