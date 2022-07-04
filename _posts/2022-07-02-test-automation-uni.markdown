@@ -5,6 +5,7 @@ date: 2022-07-02 22:48
 image: /assets/images/testautomationuni.JPG
 headerImage: true
 blog: true
+hidden: true
 tag:
 - software testing
 - qa
