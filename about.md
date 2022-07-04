@@ -23,7 +23,7 @@ layout: page
 <p>I am continue learning mobile application testing with <strong>APPIUM</strong> as well as trying to absorb recent testing trends via multiple sources of information. After taking <strong>ISTQB Foundation Level</strong> certification, I am motivated to take specialization paths such as <strong>Mobile Application Tester</strong> and eventually <strong>Test Automation Engineer</strong>.
 	
 </p>
-<br></br>
+<br>
 <h2>Role Related Skills for Testing</h2>
 
 <ul class="skill-list">
