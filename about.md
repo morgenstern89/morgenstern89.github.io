@@ -9,7 +9,7 @@ layout: page
 I have created this page to showcase my story, motivation, interests and skills to become a new software tester. Before getting into , let me first tell you this story: <strong>I am not a classical IT person.</strong>
 </p>
 
-<p>My academic background is in the most human-centered rather than machine-centered field.
+<p>My academic background is in the most human-centered field.
 Then I first started corporate career in Organizational Culture and Development. Then I <i><strong>accidently</strong></i> have landed in IT area when the firm was under restructuring and after my then temporary contract was not extended as the management wanted to open more senior roles to reform the HR. Only one role was offering me a permanent job where I was repositioned at IT infrastrucrure department, waiting for the global service desk transformation worldwide. 
 <p><strong> Hang on, a literature & sociology graduates will work for an IT team? </strong>
 		<p>It was a shocking transition at that time, without ever realizing that this would later become a <strong>fateful movement</strong> in my entire career.</p>
