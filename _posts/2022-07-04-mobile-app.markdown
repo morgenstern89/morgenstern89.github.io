@@ -1,7 +1,7 @@
 ---
 title: "📱 Mobile App Testing with APPIUM" 
 layout: post
-date: 2022-07-15 22:10
+date: 2022-07-04 22:10
 tag: jekyll
 image: /assets/images/mobileapptesting.png
 headerImage: true
