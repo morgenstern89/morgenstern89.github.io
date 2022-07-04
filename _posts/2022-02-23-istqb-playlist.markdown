@@ -2,7 +2,7 @@
 title: 📺 YouTube | ISTQB Foundation Level Syllabus Playlist
 layout: post
 date: 2022-02-23 22:48
-image: /assets/images/istqb.png
+image: /assets/images/istqb.PNG
 headerImage: true
 blog: true
 tag:
