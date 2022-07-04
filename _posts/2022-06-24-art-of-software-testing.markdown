@@ -16,7 +16,7 @@ description: Good books to read on the topic Software Testing.
 
 ## Summary:
 
-<The Art of Software Testing>, 3rd Edition
+<strong>The Art of Software Testing, 3rd Edition</strong>
     
 This book is about software testing and its approach with different testing methods. 
 Also it covers trendy topics such as mobile application testing which is one of my interests.
