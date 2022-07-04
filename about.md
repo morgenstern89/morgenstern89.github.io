@@ -6,7 +6,7 @@ layout: page
 
 <p>Welcome to my website.</p>
 <p>My name is <strong>Sarah</strong>, I have created this page to showcase my story, motivation, interests and skills which have been gained to become a new software tester. Before getting into all the details of my qualification, let me first tell you this story: </p>
-	<p><strong>I am not a classical IT person. </strong></p>
+	<strong>I am not a classical IT person. </strong>
 <br></br>
 <p>My academic background is rather in the most human-centered studies than in the machine related subjects. I first started corporate career in Organizational Culture and Development. Maybe the most digital element out of it was the topic "E-Learning". Then I <strong>accidently</strong> have landed in IT area because back then my company was going under restructuring and after my limited contract at HR Development, the extension was not possible to any other new positions as they require more senior roles to start shaping the HR after the reformation. Only one option was offering me a permanent contract and so I was repositioned as a Change and Communication Manager at IT infrastrucrure department where the global service desk transformation was in pipeline. Hang on, a literature & sociology graduates with foreign ("human") language specialties will work for an IT team? It was a shocking transition at that time, without realizing that this would later become a <strong>fateful movement</strong> in my entire career.</p>
 
