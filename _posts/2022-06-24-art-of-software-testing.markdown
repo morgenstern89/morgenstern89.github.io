@@ -1,5 +1,5 @@
 ---
-title: 📖"Booklist | The Art of Software Testing, 3rd Edition"
+title: 📖 Book | The Art of Software Testing, 3rd Edition
 layout: post
 date: 2022-06-24 22:48
 image: /assets/images/theartofsoftwaretesting.jpg
