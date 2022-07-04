@@ -1,0 +1,26 @@
+---
+title: 📰 Article | Software Testing Pipelines
+layout: post
+date: 2022-06-28 22:48
+image: /assets/images/medium.png
+headerImage: true
+blog: true
+tag:
+- software testing
+- qa 
+- articles
+category: blog
+author: sarahyoon
+description: Collection of related articles on software testing
+---
+
+## Summary:
+
+<strong>Medium.com | Software Testing articles</strong>
+    
+While taking the UX Design course in 2019, I found this blog community calls "Medium.com" where I could read many helpful articles on the experience design, good layouts and product development.
+Now that I am interested in software testing and this platform is providing a collection of relevant articles matching to the topic.
+
+[Medium software testing articles](https://medium.com/software-testing-pipeline)
+
+---
