@@ -14,7 +14,7 @@ layout: page
 
 <p>I find <strong>Software Testing</strong> is a great fit for me as the job itself seems a representation of myself: <strong>combination of tech-driven nature and non-tech softskills and the emphasis on attention to details, understanding process driven work flow, thorough documentation and communication.</strong></p>
 
-<p>Back to my story - a girl who used to study human languages, history and social interactions is now learning programming languages, history of tools and frameworks and the interaction between components of applications. With this unique changeover in my career, I believe that I will play a key role bridging different stakeholders as a tester. After all, connecting the dots and becoming a bridge is, using the words of <i><strong>Jean-Paul Sartre</strong></i>, the <i><strong>raison d'etre</strong></i> of technology.</p>
+<p>Back to my story - a girl who used to study human languages, history and social interactions is now learning programming languages, history of tools and frameworks and the interaction between components of applications. With this unique changeover in my career, I believe that I will play a key role bridging different stakeholders as a tester. After all, connecting the dots and becoming a bridge is, using the words of <i><strong>Jean-Paul Sartre</strong></i>, the <i><strong>raison d'être</strong></i> of technology.</p>
 
 
 <p>After taking <strong>ISTQB Foundation Level</strong> certification, I am motivated to take specialization paths such as <strong>Mobile Application Tester</strong> and eventually <strong>Test Automation Engineer</strong>.
