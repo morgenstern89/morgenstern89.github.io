@@ -4,11 +4,9 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Welcome to my website, my name is <strong>Sarah</strong>.</p>
-<p>
-I have created this page to showcase my story, motivation, interests and skills to become a new software tester.
-Before navigating this site, let me tell you something: 
-	<i><strong>I am not a classical IT person.</strong></i></p>
+<p>Welcome to my website, my name is <strong>Sarah</strong>.
+<br>I have created this page to showcase my story, motivation, interests and skills to become a new software tester. <br>Before navigating this site, let me tell you something: <i><strong>I am not a classical IT person.</strong></i>
+</br>
 
 
 <p>My academic background is in the most human-centered field and I started corporate career in Organizational Culture and Development. Then I <i><strong>accidently</strong></i> landed in IT when the firm was under restructuring. Only one role was offering me a permanent job but from an infrastructure department to help change management and communication campaign of the global technical service desk transformation. So one day, I was repositioned to IT.
@@ -21,9 +19,9 @@ Before navigating this site, let me tell you something:
 
 <p>Now, back to the beginning of my story - a girl who used to study human languages, history and social interactions is now growing as a budding tech professional who is learning programming languages, history of tools and frameworks and the interaction between components of applications. With this unique changeover which has happend in my career, I believe that I will play a key role bridging different worlds as a good tester who understands developers, designers, end-users and product owners. At the end, connecting the dots and becoming a bridge is, using the words of <i><strong>Jean-Paul Sartre</strong></i>, the <strong>raison d'etre</strong> of technology.</p>
 
-<p>Being a global nomad, coming from Far-East to West has been shaping my personality of eagering to explore different fields, working hard, learning immensely, taking risks and responsibilities of the consequences. This is derived from my upbringing: Born in a satelite town near Seoul, South Korea and then raised in the city Seoul, then a couple years during mid-teen, exposure to countries in South Pacific. Later spent high school and college years in a southern port city Busan, as a student had international encounters in Australia and Europe. After the study, came back to Seoul and then made all the way to Germany. The international and intercultural living, learning and working experiences will bring critical value into the most dynamic and diverse field like technology.</p>
+<p>Being a global nomad, coming from Far-East to West has been shaping my personality of eagering to explore different fields, working hard, learning immensely, taking risks and responsibilities of the consequences. This is derived from my upbringing: Raised in the city Seoul, then a couple years during mid-teen, exposure to countries in South Pacific. Later spent high school and college years in a southern port city Busan, as a student had international encounters in Australia and Europe. After the study, came back to Seoul and then made all the way to Germany. The international and intercultural living, learning and working experiences will bring critical value into the most dynamic and diverse field like technology.</p>
 
-<p>I am continue learning mobile application testing with APPIUM as well as trying to absorb recent testing trends via multiple sources of information. After taking ISTQB foundation level certification, I am also motivated to take specialization paths such as Mobile Application Tester and eventually Test Automation Engineer.
+<p>I am continue learning mobile application testing with <strong>APPIUM</strong> as well as trying to absorb recent testing trends via multiple sources of information. After taking <strong>ISTQB Foundation Level</strong> certification, I am also motivated to take specialization paths such as <strong>Mobile Application Tester</strong> and eventually <strong>Test Automation Engineer</strong>.
 	
 </p>
 
