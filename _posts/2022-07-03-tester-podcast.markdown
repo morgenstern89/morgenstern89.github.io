@@ -1,5 +1,5 @@
 ---
-title: YouTube | Software Tester in Germany :head
+title: 🎧 Podcast | Tester's Talk
 layout: post
 date: 2022-07-03 22:48
 image: /assets/images/eviltester.png
