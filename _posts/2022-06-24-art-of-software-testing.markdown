@@ -3,7 +3,7 @@ title: 📖 Book | The Art of Software Testing, 3rd Edition
 layout: post
 date: 2022-06-24 22:48
 image: /assets/images/theartofsoftwaretesting.jpg
-headerImage: false
+headerImage: true
 blog: true
 tag:
 - softwaretesting
@@ -24,7 +24,7 @@ The copy that I have is E-book version and the authors are G. Meyers, C. Sandler
 
 ---
 
-## Evidence
+<!-- ## Evidence
 
 You can try the evidence!
 
@@ -35,7 +35,7 @@ You can try the evidence!
 {% endhighlight %}
 
 ---
-
+ -->
 <!-- ## Side-by-side
 
 Like the [Medium](https://medium.com/) component.
