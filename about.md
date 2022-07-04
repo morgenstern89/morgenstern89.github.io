@@ -10,7 +10,7 @@ layout: page
 <p><strong><i> Hang on, a liberal arts graduate will work for an IT team? </i></strong>
 <p>It was a shocking transition at that time, without ever realizing that this would later become a <strong>fateful movement</strong> in my entire career.</p>
 
-<p>While working in IT&D division, I have realized that information technology is a fascinating area where even I as a woman can continue grow further. Here I could learn the process driven IT management such as project management, ERP implementation, organizational transformation. However my ever-growing thirst for more tech-savvy topics was not achievable in the given set-up, finally I have decided to take a year sabbatical to actively prepare myself for reshaping my career path.</p>
+<p>While working in IT&D division, I have realized that information technology is a fascinating area where even I as a woman can continue grow further. Here I could learn the process driven IT management such as project management, ERP implementation, organizational transformation. However my ever-growing thirst for more tech-savvy topics was not achievable in the given setting, finally I have decided to take a year sabbatical to actively prepare myself for reshaping my career path.</p>
 
 <p>I find <strong>Software Testing</strong> is a great fit for me as the job itself seems a representation of myself: <strong>combination of tech-driven nature and non-tech softskills and the emphasis on attention to details, understanding process driven work flow, thorough documentation and communication.</strong></p>
 
