@@ -22,7 +22,7 @@ This community was frequently mentioned and recommended by software testing prof
 Indeed the site provides abundant course packs on different testing automation techniques as well as podcasts, postings, discussion channels and many more.
 
 A number of virtual events are organized as well, even if one is not so well connected with testers locally, this opportunity would work nicely to get information from others worldwide and to be able to network.
-[Ministry of Testing website](https://www.ministryoftesting.com/))
+[Ministry of Testing website](https://www.ministryoftesting.com/)
 
 
 
