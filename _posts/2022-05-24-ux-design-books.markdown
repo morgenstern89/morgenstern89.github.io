@@ -16,7 +16,7 @@ description: Good books related to the topic user experience design.
 
 ## Summary:
 
-<strong><i>Don't Make Me think</i> by S. Krung</strong>
+<strong><i>Don't Make Me think</i> by S. Krug</strong>
 <p><strong><i>The Design of Everyday Things</i> by D. Norman</strong></p>
     
 These two books are introduced during the webinars of UX Design course at UX Design Institute.
