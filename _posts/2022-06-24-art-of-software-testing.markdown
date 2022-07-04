@@ -1,36 +1,26 @@
 ---
-title: "Markdown Extra Components"
+title: 📖"Booklist | The Art of Software Testing, 3rd Edition"
 layout: post
-date: 2016-02-24 22:48
-image: /assets/images/markdown.jpg
+date: 2022-06-24 22:48
+image: /assets/images/theartofsoftwaretesting.jpg
 headerImage: false
 blog: true
-hidden: true
 tag:
-- markdown
-- components
-- extra
+- softwaretesting
+- qa
+- testingbooks
 category: blog
-author: jamesfoster
-description: Markdown summary with different options
+author: sarahyoon
+description: Good books to read on the topic Software Testing.
 ---
 
 ## Summary:
 
-You can pick as item to see how to apply in markdown.
+This book is about software testing and its approach with different testing methods. 
+Also it covers trendy topics such as mobile application testing which is one of my interests.
+While learning only UX Design, I was only focusing on user research and usability tests. As I am getting more knowledge on software testing as a whole, I can see the complexity of building digtal products like software and the necessity of testing techniques as well as the importance.
 
-#### Especial Elements
-- [Evidence](#evidence)
-- [Side-by-Side](#side-by-side)
-- [Star](#star)
-- [Especial Breaker](#especial-breaker)
-- [Spoiler](#spoiler)
-
-#### External Elements
-- [Gist](#gist)
-- [Codepen](#codepen)
-- [Slideshare](#slideshare)
-- [Videos](#videos)
+The copy that I have is E-book version and the authors are G. Meyers, C. Sandler, T. Badgett.
 
 ---
 
@@ -46,7 +36,7 @@ You can try the evidence!
 
 ---
 
-## Side-by-side
+<!-- ## Side-by-side
 
 Like the [Medium](https://medium.com/) component.
 
@@ -196,3 +186,4 @@ Do you want some videos? Youtube, Vimeo or Vevo? Copy the embed code and paste o
 [4]: https://daringfireball.net/projects/markdown/basics
 [5]: https://daringfireball.net/projects/markdown/syntax
 [6]: https://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg
+ -->
