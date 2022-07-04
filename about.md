@@ -28,7 +28,7 @@ layout: page
 	<li>Responsive Design</li>
 	<li>Node.js, Mocha&Chai libraries</li>
 	<li>JS based test automation(Cypress, Playwright, Appium)</li>
-	<li>Mobile App Testing Automation (Android Studio)</li>
+	<li>Mobile App Testing Automation (APPIUM, Android Studio)</li>
 	<li>Programming Basic (Python for pytest, Javascript, JAVA)</li>
 	<li>MySQL - connecting to database for WordPress</li>
 </ul>
