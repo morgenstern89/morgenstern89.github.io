@@ -1,5 +1,5 @@
 ---
-title: 📺 YouTube | ISTQB Foundation Level Playlist
+title: 📺 YouTube | ISTQB Foundation Playlist
 layout: post
 date: 2022-02-23 22:48
 image: /assets/images/istqb.PNG
