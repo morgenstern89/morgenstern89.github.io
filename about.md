@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Welcome to my website, my name is <strong>Sarah</strong>.
+<p>Welcome, my name is <strong>Sarah</strong>.
 <p>Let me tell you something: <i><strong>I am not a classical IT person.</strong></i>
 <br>My academic background is in the most human-centered field and my corporate career began in Organizational Development. Then, I <i><strong>accidently</strong></i> landed in IT when the firm was under restructuring. A job was opening from an infrastructure department to help change management of the service desk transformation. A finger snap, I was repositioned to IT.
 <p><strong><i> Hang on, a liberal arts graduate will work for an IT team? </i></strong>
