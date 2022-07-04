@@ -3,7 +3,7 @@ title: ":octocat: Github Page Portfolio"
 layout: post
 date: 2022-06-19 22:10
 tag: jekyll
-image: /assets/images/jekyllpage.png
+image: /assets/images/gitpage.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
@@ -14,7 +14,7 @@ externalLink: false
 
 ---
 
-[Screenshot](/assets/images/jekyll.png)
+[Screenshot](/assets/images/jekyllpage.png)
 
 ## About Project
 
