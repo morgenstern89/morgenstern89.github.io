@@ -5,8 +5,8 @@ layout: page
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 <p>Welcome to my website.</p>
-<p>My name is <strong>Sarah</strong>. I have created this page to showcase my story, motivation, interests and skills to become a new software tester. Before getting into all the details of my qualification, let me first tell you this story: 
-	**I am not a classical IT person.**</p>
+<p>My name is <strong>Sarah</strong>. 
+I have created this page to showcase my story, motivation, interests and skills to become a new software tester. Before getting into all the details of my qualification, let me first tell you this story: **I am not a classical IT person.**</p>
 
 <p>My academic background is rather in the most human-centered studies than in the machine related subjects.
 I first started corporate career in Organizational Culture and Development. Then I <strong>accidently</strong> have landed in IT area because back then my company was under restructuring and after my back- then limited term contract was not extended due to the firm's decision to hire more senior roles to reform the HR. Only one role  granted me a permanent contract where I was repositioned as a Change & Communication Manager at IT infrastrucrure department, waiting for the global service desk transformation worldwide. Hang on, a literature & sociology graduates with foreign ("human") language specialties will work for an IT team? It was a shocking transition at that time, without realizing that this would later become a **fateful movement** in my entire career.</p>
