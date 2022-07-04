@@ -8,7 +8,7 @@ layout: page
 <br>I have created this page to showcase my story, motivation, interests and skills to become a new software tester. Before navigating this site, let me tell you something: <i><strong>I am not a classical IT person.</strong></i>
 
 
-<p>My academic background is in the most human-centered field and my first corporate career began in Organizational Culture and HR Development. One day, I <i><strong>accidently</strong></i> landed in IT when the firm was under restructuring. Only one role was offering me a permanent job but from an infrastructure department to help change management and communication campaign of the technical service desk transformation program. So a finger snap, I was repositioned to IT.
+<p>My academic background is in the most human-centered field and my first corporate career began in Organizational Culture and HR Development. One day, I <i><strong>accidently</strong></i> landed in IT when the firm was under restructuring. Only one role was offering me a permanent job but from an infrastructure department to help change management and communication campaign of the technical service desk transformation program. A finger snap, I was repositioned to IT.
 <p><strong><i> Hang on, a literature & sociology graduate will work for an IT team? </i></strong>
 <p>It was a shocking transition at that time, without ever realizing that this would later become a <strong>fateful movement</strong> in my entire career.</p>
 
@@ -23,7 +23,7 @@ layout: page
 <p>I am continue learning mobile application testing with <strong>APPIUM</strong> as well as trying to absorb recent testing trends via multiple sources of information. After taking <strong>ISTQB Foundation Level</strong> certification, I am also motivated to take specialization paths such as <strong>Mobile Application Tester</strong> and eventually <strong>Test Automation Engineer</strong>.
 	
 </p>
-
+<br></br>
 <h2>Role Related Skills for Testing</h2>
 
 <ul class="skill-list">
