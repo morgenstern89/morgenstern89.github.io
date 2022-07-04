@@ -5,7 +5,7 @@ layout: page
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 <p>Welcome to my website, my name is <strong>Sarah</strong>.</p>
-<p></p>
+<p>
 I have created this page to showcase my story, motivation, interests and skills to become a new software tester.
 Before navigating this site, let me tell you something: 
 	<i><strong>I am not a classical IT person.</strong></i></p>
