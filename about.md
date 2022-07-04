@@ -5,7 +5,7 @@ layout: page
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 <p>Welcome to my website, my name is <strong>Sarah</strong>.
-<br>I have created this page to showcase my story, motivation, interests and skills to become a new software tester. <br>Before navigating this site, let me tell you something: <i><strong>I am not a classical IT person.</strong></i>
+<br>I have created this page to showcase my story, motivation, interests and skills to become a new software tester. Before navigating this site, let me tell you something: <i><strong>I am not a classical IT person.</strong></i>
 
 
 <p>My academic background is in the most human-centered field and my first corporate career began in Organizational Culture and HR Development. One day, I <i><strong>accidently</strong></i> landed in IT when the firm was under restructuring. Only one role was offering me a permanent job but from an infrastructure department to help change management and communication campaign of the technical service desk transformation program. So a finger snap, I was repositioned to IT.
