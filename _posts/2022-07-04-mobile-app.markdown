@@ -1,12 +1,11 @@
 ---
 title: "📱 Mobile App Testing with APPIUM" 
 layout: post
-date: 2022-07-04 00:10
+date: 2022-07-03 21:10
 tag: jekyll
 image: /assets/images/mobileapptesting.png
 headerImage: true
 projects: true
-hidden: true # don't count this post in blog pagination
 description: "Application Testing on Android & iOS"
 category: project
 author: sarahyoon
