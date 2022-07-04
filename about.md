@@ -6,7 +6,7 @@ layout: page
 
 <p>Welcome to my website.</p>
 <p>My name is <strong>Sarah</strong>. 
-I have created this page to showcase my story, motivation, interests and skills to become a new software tester. Before getting into , let me first tell you this story: <strong>I am not a classical IT person.</strong>
+I have created this page to showcase my story, motivation, interests and skills to become a new software tester. Before getting into , let me first tell you this story: <i><strong>I am not a classical IT person.</strong></i>
 </p>
 
 <p>My academic background is in the most human-centered field.
