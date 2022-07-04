@@ -7,7 +7,7 @@ layout: page
 <p>Welcome to my website, my name is <strong>Sarah</strong>.
 <p>Let me tell you something: <i><strong>I am not a classical IT person.</strong></i>
 <br>My academic background is in the most human-centered field and my corporate career began in Organizational Development. Then, I <i><strong>accidently</strong></i> landed in IT when the firm was under restructuring. A job was opening from an infrastructure department to help change management of the service desk transformation. A finger snap, I was repositioned to IT.
-<p><strong><i> Hang on, a literature & sociology graduate will work for an IT team? </i></strong>
+<p><strong><i> Hang on, a liberal arts graduate will work for an IT team? </i></strong>
 <p>It was a shocking transition at that time, without ever realizing that this would later become a <strong>fateful movement</strong> in my entire career.</p>
 
 <p>While working in IT&D division, I have realized that information technology is a fascinating area where even I as a woman can continue grow further. Here I could learn the process driven IT management such as project management, ERP implementation, organizational transformation. However my ever-growing thirst for more tech-savvy topics was not achievable in the given set-up, finally I have decided to take a year sabbatical to actively prepare myself for reshaping my career path.</p>
