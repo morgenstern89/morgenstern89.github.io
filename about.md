@@ -14,12 +14,12 @@ layout: page
 
 <p>While working in IT&D division, I have realized that information technology is a fascinating area where even I as a woman can continue grow further. Here I could learn learn the IT project management, SAP implementation, IT organizational transformation. However my ever-growing thirst for more tech-savvy topics was not achievable in the given set-up, finally I have decided to take a year sabbatical to actively prepare myself for reshaping my career path.</p>
 
-<p>I find <strong>Software Testing</strong> is a great fit for me as the job itself seems a representation of myself: <strong>combination of tech-driven nature and non-tech softskills and the emphasis on attention to details, understanding process driven work flow, thorough documentation and communication.</strong> Since the beginning of 2022, I have been diligently taking different courses and accessing to various inspirational resources to enlighten myself to get positioned in my desired job.  </p>
+<p>I find <strong>Software Testing</strong> is a great fit for me as the job itself seems a representation of myself: <strong>combination of tech-driven nature and non-tech softskills and the emphasis on attention to details, understanding process driven work flow, thorough documentation and communication.</strong></p>
 
-<p>Back to my story - a girl who used to study human languages, history and social interactions is now learning programming languages, history of tools and frameworks and the interaction between components of applications. With this unique changeover in my career, I believe that I will play a key role bridging different worlds as a good tester who understands developers, designers, end-users and product owners. At the end, connecting the dots and becoming a bridge is, using the words of <i><strong>Jean-Paul Sartre</strong></i>, the <i><strong>raison d'etre</strong></i> of technology.</p>
+<p>Back to my story - a girl who used to study human languages, history and social interactions is now learning programming languages, history of tools and frameworks and the interaction between components of applications. With this unique changeover in my career, I believe that I will play a key role bridging different stakeholders as a tester. After all, connecting the dots and becoming a bridge is, using the words of <i><strong>Jean-Paul Sartre</strong></i>, the <i><strong>raison d'etre</strong></i> of technology.</p>
 
 
-<p>I am continue learning mobile application testing with <strong>APPIUM</strong> as well as trying to absorb recent testing trends via multiple sources of information. After taking <strong>ISTQB Foundation Level</strong> certification, I am motivated to take specialization paths such as <strong>Mobile Application Tester</strong> and eventually <strong>Test Automation Engineer</strong>.
+<p>After taking <strong>ISTQB Foundation Level</strong> certification, I am motivated to take specialization paths such as <strong>Mobile Application Tester</strong> and eventually <strong>Test Automation Engineer</strong>.
 	
 </p>
 <br>
