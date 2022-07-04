@@ -24,6 +24,7 @@ layout: page
 <h2>Role Related Skills for Testing</h2>
 
 <ul class="skill-list">
+	<li>Agile Framework (Scrum)</li>
 	<li>HTML, CSS</li>
 	<li>Responsive Design</li>
 	<li>Node.js, Mocha&Chai libraries</li>
