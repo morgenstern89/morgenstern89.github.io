@@ -26,13 +26,12 @@ layout: page
 <h2>Role Related Skills for Testing</h2>
 
 <ul class="skill-list">
-	<li>HTML, CSS, Javascript</li>
+	<li>HTML, CSS</li>
 	<li>Responsive Design</li>
 	<li>Node.js, Mocha&Chai libraries</li>
 	<li>JS based test automation(Cypress, Playwright, Appium)</li>
 	<li>Mobile App Testing Automation (Android Studio)</li>
-	<li>Git, Jenkins, Docker</li>
-	<li>Python(Pytest)</li>
+	<li>Programming Basic (Python for pytest, Javascript, JAVA)</li>
 	<li>MySQL - connecting to database for WordPress</li>
 </ul>
 
