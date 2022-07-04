@@ -12,7 +12,7 @@ layout: page
 <p><strong><i> Hang on, a literature & sociology graduate will work for an IT team? </i></strong>
 <p>It was a shocking transition at that time, without ever realizing that this would later become a <strong>fateful movement</strong> in my entire career.</p>
 
-<p>While working in IT&D division, I have realized that information technology is a fascinating area where even I as a woman can continue grow further. Here I could learn learn the IT project management, SAP implementation, change management of IT organizational transformation that how the wheels are moving in phase by phase approach and the inter-dependencies between roles, deliverables and artifacts. However my ever-growing thirst for more tech-savvy topics was not achievable in the given set-up, therefore while maintaining the process-driven and administrative positions, privately I have invested in further development to gain IT sector knowledges and finally as of November 2021, I have decided to take a year sabbatical to actively prepare myself for reshaping my career path.</p>
+<p>While working in IT&D division, I have realized that information technology is a fascinating area where even I as a woman can continue grow further. Here I could learn learn the IT project management, SAP implementation, IT organizational transformation. However my ever-growing thirst for more tech-savvy topics was not achievable in the given set-up, therefore while maintaining the process-driven and administrative positions, privately I have invested in further development to gain IT sector knowledges and finally as of November 2021, I have decided to take a year sabbatical to actively prepare myself for reshaping my career path.</p>
 
 <p>Among other technical career tracks, I found <strong>Software Testing</strong> is a great fit for me as the job itself seems a representation of myself: <strong>combination of tech-driven nature and non-tech softskills and the emphasis on attention to details, understanding process driven work flow, thorough documentation and communication.</strong> Since the beginning of 2022, I have been diligently taking different courses and accessing to various inspirational resources to enlighten myself to get positioned in my desired job.  </p>
 
@@ -70,3 +70,5 @@ layout: page
 
 
 <!-- Moreover, I am very convinced that on top of the required technical hard skills in software development and testing, my transferrable skills which have been gained throughout my past tack of professional experiences will add significant values to the future projects. -->
+
+<!-- that how the wheels are moving in phase by phase approach and the inter-dependencies between roles, deliverables and artifacts.  -->
