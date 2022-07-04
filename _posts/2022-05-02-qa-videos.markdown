@@ -1,5 +1,5 @@
 ---
-title: :tv: YouTube | QA Videos on Madeline Elaine's channel
+title: :tv: "YouTube | QA Videos on Madeline Elaine's channel"
 layout: post
 date: 2022-05-02 22:48
 image: /assets/images/qavideos.png
