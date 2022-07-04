@@ -17,7 +17,7 @@ layout: page
 <p>Back to my story - a girl who used to study human languages, history and social interactions is now learning programming languages, history of tools and frameworks and the interaction between components of applications. With this unique changeover in my career, I believe that I will play a key role bridging different stakeholders as a tester. After all, connecting the dots and becoming a bridge is, using the words of <i><strong>Jean-Paul Sartre</strong></i>, the <i><strong>raison d'être</strong></i> of technology.</p>
 
 
-<p>After taking <strong>ISTQB Foundation Level</strong> certification, I am motivated to take specialization paths such as <strong>Mobile Application Tester</strong> and eventually <strong>Test Automation Engineer</strong>.
+<p>Having <strong>ISTQB Foundation Level</strong> certification under my belt, now I am motivated to take specialization paths such as <strong>Mobile Application Tester</strong> and eventually <strong>Test Automation Engineer</strong>.
 	
 </p>
 <br>
