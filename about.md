@@ -41,7 +41,7 @@ layout: page
 
 <ul class="skill-list">
 	<li>IT Project Management</li>
-	<li>SAP Ariba fundamentals</li>
+	<li>ERP Application(SAP-Ariba eProcurement)</li>
 	<li>ITIL Service Management Lifecycle</li>
 	<li>COBIT5 IT Governance</li>
 	<li>IT Organizational Transformation(Change Management)</li>
