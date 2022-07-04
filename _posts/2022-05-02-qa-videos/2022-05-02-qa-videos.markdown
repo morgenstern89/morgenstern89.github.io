@@ -1,0 +1,33 @@
+---
+title: :tv: YouTube | QA Videos on Madeline Elaine's channel
+layout: post
+date: 2022-05-02 22:48
+image: /assets/images/qavideos.png
+headerImage: true
+blog: true
+tag:
+- software testing
+- qa career
+- influencer
+category: blog
+author: sarahyoon
+description: YouTube Influencer who is in QA field.
+---
+
+## Summary:
+
+<strong>Madeline Elaine's YouTube Channel</strong>
+    
+This is a YouTube channel of a young American influencer who used to transform her career from an English teacher at a local high school to a manual QA tester at a software company.
+I have been knowing her channel since the year 2021 when I was preparing for resignation at the previous company and targeting my next career goal into Software Testing domain.
+In her channel, she uploaded and shared many episodes on her 8 to 5 corporate manual QA tester home-office job and useful Q&A on how to move into the job field.
+To me, her story was particularly compelling because she has studied literature and education which resembles to my undergraduates majors in humanities field and was able to switch career into tech field.
+Also she is a young woman working in tech industry, which also has inspired and encouraged me a lot.
+Also it covers trendy topics such as mobile application testing which is one of my interests.
+
+The best episode for me was this one: 
+[Why I Quit Teaching and How I Became a QA Analyst](https://youtu.be/9BqKZ_BRLVs)
+
+Currently she no longer works at the company as a tester as she wants to pursue further degree at the graduate school.
+
+---
