@@ -5,7 +5,7 @@ layout: page
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 <p>Welcome to my website.</p>
-<p>My name is <strong>Sarah</strong>. I have created this page to showcase my story, motivation, interests and skills which have been gained to become a new software tester. Before getting into all the details of my qualification, let me first tell you this story: 
+<p>My name is <strong>Sarah</strong>. I have created this page to showcase my story, motivation, interests and skills to become a new software tester. Before getting into all the details of my qualification, let me first tell you this story: 
 	**I am not a classical IT person.**</p>
 
 <p>My academic background is rather in the most human-centered studies than in the machine related subjects.
