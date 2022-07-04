@@ -18,9 +18,10 @@ description: Good books to read on the topic Software Testing.
 
 This book is about software testing and its approach with different testing methods. 
 Also it covers trendy topics such as mobile application testing which is one of my interests.
-While learning only UX Design, I was only focusing on user research and usability tests. As I am getting more knowledge on software testing as a whole, I can see the complexity of building digtal products like software and the necessity of testing techniques as well as the importance.
+While learning only UX Design, I was only focusing on user research and usability tests. 
+As I am getting more knowledge on software testing as a whole, I can see the complexity of building digtal products like software and the necessity of testing techniques as well as the importance.
 
-The copy that I have is E-book version and the authors are G. Meyers, C. Sandler, T. Badgett.
+The copy that I have is E-book version.
 
 ---
 
