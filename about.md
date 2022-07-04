@@ -8,10 +8,9 @@ layout: page
 <br>I have created this page to showcase my story, motivation, interests and skills to become a new software tester. <br>Before navigating this site, let me tell you something: <i><strong>I am not a classical IT person.</strong></i>
 </br>
 
-
 <p>My academic background is in the most human-centered field and I started corporate career in Organizational Culture and HR Development. Then I <i><strong>accidently</strong></i> landed in IT when the firm was under restructuring. Only one role was offering me a permanent job but from an infrastructure department to help change management and communication campaign of the global technical service desk transformation. So one day, I was repositioned to IT.
-<p><strong><i> Hang on, a literature & sociology graduates will work for an IT team? </i></strong>
-		<p>It was a shocking transition at that time, without ever realizing that this would later become a <strong>fateful movement</strong> in my entire career.</p>
+<p><strong><i> Hang on, a literature & sociology graduate will work for an IT team? </i></strong>
+<p>It was a shocking transition at that time, without ever realizing that this would later become a <strong>fateful movement</strong> in my entire career.</p>
 
 <p>While working in IT&D division, I have realized that information technology is a fascinating area where even I as a woman can continue grow further. Here I could learn learn the IT project management processes, service management cycle and change management of global-scale IT organizational transformation that how the wheels are moving in phase by phase approach and the inter-dependencies between roles, deliverables and artifacts. However my ever-growing thirst in deepening into more tech-savvy areas was not achievable in the given set-up, therefore while maintaining the process-driven and administrative positions, privately I have invested in further development to gain IT sector knowledges and finally as of November 2021, I have decided to take a year sabbatical to actively prepare myself for reshaping my career path.</p>
 
