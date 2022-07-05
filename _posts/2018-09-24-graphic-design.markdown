@@ -29,7 +29,7 @@ The course ran **from the year 2017 to year 2018**.
 - **Adobe Photoshop**: finalizing various mock-up scenes for the portfolio
 - **Adobe InDesign**: finalizing the portfolio booklet
 
-[Snapshot](/assets/images/invitationset.png)
+<img src="/assets/images/invitationset.png" width=500>
 
 ---
 
