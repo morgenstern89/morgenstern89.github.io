@@ -4,31 +4,31 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-### Welcome :) 
+<h4> Welcome :)</h4>
 My name is <strong>Sarah</strong> and I am based in Germany. 
 <br>Currently I am searching for opportunity to work as a QA Software Tester.
 
-### Let me tell you something: <i>I am not a classical IT person.</i>
+<h4>Let me tell you something: <i>I am not a classical IT person.</h4>
 My academic background is in the most human-centered field and my corporate career began in Organizational Development and a finger snap, I <i><strong>accidently landed in IT</strong></i> when the firm was under restructuring. 
 <p><i> Then I hoped that this will only be a clash landing </i> -- It was a shocking transition at that time, without ever realizing that later this would become a <strong>fateful pivot</strong> that affects my entire career because since I came to IT, I began realizing how fascinating this domain is. </p>
 
-### What is technology and what does it mean to work in tech fields?
+<h4>What is technology and what does it mean to work in tech fields?</h4>
 It is about making our life better through connection. 
 <br>A girl studied human languages, history and social interactions is now learning programming languages, history of tools and frameworks and the interaction between components of applications. This unique changeover is a good example of bridging worlds to connect - this reflects on, using the words of <i>Jean-Paul Sartre</i>, the <i>raison d'être</i> of technology. Working in tech industry means participating in the connection journey.</p>
 
-### ...and why Testing?
+<h4> ...and why Testing?</h4>
 Software Testing will be a great fit for me. I find the job itself represents myself: The combination of non-tech softskills & tech-savvy hardskills, attention to details, process oriented, thorough documentation and communication. Besides, it is a rewarding career in which I can contribute added value while ensuring product competence which leads to customer satisfaction and make their life easier. As a diligent learner, having <strong>ISTQB Foundation Level</strong> certification under my belt, I am motivated to take specialization paths such as <strong>Mobile Application Testing</strong> and <strong>Test Automation</strong>.</p>
 
-### To navigate the website
+<h4>To navigate the website</h4>
 - <strong>Project</strong>: My course works from relevant topics
 - <strong>Inspired</strong>: My curation of contents sources that has inspired me 
 - <strong>Résumé</strong>: My curriculum vitae with professional history
 
 
 ---
-### Knowledge & Skills gained so far:
+<h4>Knowledge & Skills gained so far:</h4>
 
-<h4>Role Related</h4>
+<h5>Role Related</h5>
 
 <ul class="skill-list">
 	<li>Agile Framework (Scrum)</li>
@@ -40,7 +40,7 @@ Software Testing will be a great fit for me. I find the job itself represents my
 	<li>MySQL (Database connection for WordPress)
 </ul>
 
-<h4>IT Organization</h4>
+<h5>IT Organization</h5>
 
 <ul class="skill-list">
 	<li>Project Management</li>
@@ -50,7 +50,7 @@ Software Testing will be a great fit for me. I find the job itself represents my
 	<li>E-Learning, Digital Education</li>
 </ul>
 
-<h4>Mobile Working & Collaboration Tools</h4>
+<!-- <h5>Mobile Working & Collaboration Tools</h5>
 
 <ul class="skill-list">
 	<li>Microsoft Office365 Suites (TEAMS, OneDrive)</li>
@@ -58,7 +58,7 @@ Software Testing will be a great fit for me. I find the job itself represents my
 	<li>GitHub (Version Controlling and Collaboration)</li>
 	<li>Jenkins & Docker (Basic Knowledge in CI&CD concept)</li>
 	<li>Slack (Team Communication)</li>
-</ul>
+</ul> -->
 
 <!-- <h2>Digital Creativity</h2>
 
