@@ -14,7 +14,7 @@ author: sarahyoon
 description: A podcast show on the topic QA testing.
 ---
 ## The Evil Tester Show
-## Summary:
+### Summary
     
 The host <strong>Alan Richardson</strong> is a UK-based seasoned tester with abundant experience in the field. First I got to know him on YouTube as he has his YouTube channel, soon I have learned that he has podcasts shows available on Spotify.
 He is telling audiences about getting the first step into the job, test automation related topics, strategies on choosing right testing tools and many more.
