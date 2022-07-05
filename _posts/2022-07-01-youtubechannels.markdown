@@ -21,12 +21,11 @@ description: Inspiring YouTube channels about tester's life
 ## Summary
 <p>In her channel, she uploaded and shared many episodes on her "8 to 5 corporate manual QA tester home-office job" and useful Q&As on how to move into the job field.
 To me, her story was particularly compelling because she has studied literature and education which resemble with my undergraduate majors in humanities and was able to switch career into tech field.
-Also she is a woman working in tech industry, which has inspired and encouraged me a lot.
+Also she is a woman working in tech industry, which has inspired and encouraged me a lot.</p>
+
 
 My favorite episode of the channel: 
 [Why I Quit Teaching and How I Became a QA Analyst](https://youtu.be/9BqKZ_BRLVs)
- 
-</p>
 
 --- 
 ## ISTQB Foundation Level Syllabus Playlist
