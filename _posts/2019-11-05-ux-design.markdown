@@ -42,12 +42,22 @@ This work was the final project of the program **Professional Diploma in UX Desi
 ---
 
 ## Take a Look
-- [Affinity Diagram](/assets/docs/Project5_AffinityDiagram_Yoon_20190925.pdf) 
-- [Customer Journey Map](/assets/images/customerjourney.PNG) 
-- [Defining Navigation](/assets/docs/Project10_DefineNavigationforMobile_Yoon_20190926.pdf) 
-- Interaction Design
+- [Affinity Diagram (PDF)](/assets/docs/Project5_AffinityDiagram_Yoon_20190925.pdf)
+ 
+- [Customer Journey Map]
+<img src="/assets/images/customerjourney.PNG" width=550> 
+
+- [Defining Navigation (PDF)](/assets/docs/Project10_DefineNavigationforMobile_Yoon_20190926.pdf) 
+
+- [Interaction Design (Click on below clips)]
     - [Video 1](/assets/videos/FinalPrototypeInteraction_video.mp4) 
     - [Video 2](/assets/videos/FinalPrototypeInteraction_video2.mp4) 
     - [Video 3](/assets/videos/FinalPrototypeInteraction_video3.mp4) 
-- [Final Wireframe Document](/assets/docs/Project16_WireframeforMobile_Yoon_20191105.pdf) 
-- [Flow View](/assets/images/PrototypeFlows.PNG), [Overall View](/assets/images/Prototype.PNG)
+    
+- [Final Wireframe Document (PDF)](/assets/docs/Project16_WireframeforMobile_Yoon_20191105.pdf)
+ 
+- [Flow View]
+<img src="/assets/images/PrototypeFlows.PNG" width=550>
+
+- [Overall View]
+<img src="/assets/images/Prototype.PNG" width=550>
