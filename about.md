@@ -9,14 +9,14 @@ Welcome, my name is <strong>Sarah</strong>.
 <br>I am searching for a QA Tester position and am based in Germany.
 
 <h4>Let me tell you something: <i>I am not a classical IT person.</i></h4>
-<p>My academic background is in the most human-centered field and began corporate career at HR. Then, I <i>accidently landed</i> in IT when the firm was under restructuring. I thought and hope it will only be a clash landing. It was a shocking transition at that time, without ever realizing this would become a <strong>fateful pivot</strong> that affects my entire career.</p>
+<p>My academic background is in the most human-centered field and began corporate career at HR. Then, I <i>accidently landed</i> in IT when the firm was under restructuring. I thought it will only be a clash landing. It was a shocking transition at that time, without ever realizing this would become a <strong>fateful pivot</strong> that affects my entire career.</p>
 
 <h4>What is technology and what does it mean to work in tech fields?</h4>
-<p>It is about making our life better through connection. 
-<br>A girl studied human languages, history and social interactions is now learning programming languages, history of tools and frameworks and the interaction between components of applications. This unique changeover is a good example of bridging worlds to connect - this reflects on, using the words of <i>Jean-Paul Sartre</i>, the <i>raison d'être</i> of technology. Working in tech industry means participating in the connection journey.</p>
+<p>It is about making our life better and closer through connection. 
+<br>A girl studied human languages, history and social interactions is now learning programming languages, history and interaction of frameworks and tools. This unique changeover is a good example of connecting and bridging - this mentality would be, citing the words of <i>Jean-Paul Sartre</i>, the <i>raison d'être</i> of technology. To me, working in tech industry means participating in the connection journey.</p>
 
 <h4> ...and why Testing?</h4>
-<p>Software Testing will be a great fit for me. I find the job itself represents myself: The combination of non-tech softskills & tech-savvy hardskills, attention to details, process oriented, thorough documentation and communication. Going forward, putting <strong>ISTQB Foundation Level</strong> certification under my belt, I am motivated to take specialization paths such as <strong>Mobile Application Testing</strong> and <strong>Test Automation</strong>.</p>
+<p>Amongst many tech career tracks, Testing will be a great fit for me. I find the job represents myself very well: The combination of non-tech softskills & tech-savvy hardskills, attention to details, process oriented, thorough documentation and communication. Putting <strong>ISTQB Foundation Level</strong> certification under my belt, I am motivated to take specialization paths such as <strong>Mobile Application Testing</strong> and <strong>Test Automation</strong>.</p>
 
 <h4>To navigate the website</h4>
 <li> <strong>Project</strong>: My course works from relevant topics</li>
