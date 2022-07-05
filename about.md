@@ -26,7 +26,7 @@ Software Testing will be a great fit for me. I find the job itself represents my
 
 
 ---
-<h4>Knowledge & Skills gained so far:</h4>
+<h4>Knowledge & Skills:</h4>
 
 <h5>Role Related</h5>
 
