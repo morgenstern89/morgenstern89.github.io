@@ -3,7 +3,7 @@ title: ":selfie: User Experience Design"
 layout: post
 date: 2019-11-05 22:10
 tag: jekyll
-image: /assets/images/Prototype.PNG
+image: /assets/images/ux mockup.PNG
 headerImage: true
 projects: true
 hidden: true
@@ -15,6 +15,7 @@ externalLink: false
 ---
 
 ## About Project
+<img src="/assets/images/phoneview.JPG" height=300>  <img src="/assets/images/mockimage.png" width=400 height=300> 
 
 **Goal:Understanding UX Design process and as a final outcome creating wireframe of a mobile application.**
 
@@ -27,6 +28,7 @@ Based on the outcome, later on, I could further invest on more tech-savvy knowle
 This work was the final project of the program **Professional Diploma in UX Design** at **UX Design Institute**. My cohort of the program was enrolled in **Fall 2018** and completed with the **final examination in 2020**.
 
 [Professional Diploma in UX Deaign](/assets/images/uxdesigndiploma.PNG)
+
 
 ---
 
@@ -42,19 +44,19 @@ This work was the final project of the program **Professional Diploma in UX Desi
 ---
 
 ## Take a Look
-- [Affinity Diagram (PDF)](/assets/docs/Project5_AffinityDiagram_Yoon_20190925.pdf)
+- [Affinity Diagram (Click to see PDF)](/assets/docs/Project5_AffinityDiagram_Yoon_20190925.pdf)
  
 - [Customer Journey Map]
 <img src="/assets/images/customerjourney.PNG" width=550> 
 
-- [Defining Navigation (PDF)](/assets/docs/Project10_DefineNavigationforMobile_Yoon_20190926.pdf) 
+- [Defining Navigation (Click to see PDF)](/assets/docs/Project10_DefineNavigationforMobile_Yoon_20190926.pdf) 
 
 - [Interaction Design (Click on below clips)]
     - [Video 1](/assets/videos/FinalPrototypeInteraction_video.mp4) 
     - [Video 2](/assets/videos/FinalPrototypeInteraction_video2.mp4) 
     - [Video 3](/assets/videos/FinalPrototypeInteraction_video3.mp4) 
     
-- [Final Wireframe Document (PDF)](/assets/docs/Project16_WireframeforMobile_Yoon_20191105.pdf)
+- [Final Wireframe Document (Click to see PDF)](/assets/docs/Project16_WireframeforMobile_Yoon_20191105.pdf)
  
 - [Flow View]
 <img src="/assets/images/PrototypeFlows.PNG" width=550>
