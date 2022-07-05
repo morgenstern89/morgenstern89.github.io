@@ -49,5 +49,5 @@ Here is more learning focused.
 
 <p>
 [Test Automation University](https://testautomationu.applitools.com/)
-    
+ </p>   
 ---
