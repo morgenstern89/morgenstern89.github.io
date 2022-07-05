@@ -26,9 +26,9 @@ As I am getting more knowledge on software testing as a whole, I can see the com
 ## Software Testing Career Package
 ## Summary:
 <img src="/assets/images/softwaretestingcareerpack.jpg" width="100">
-There are numerous information available online regarding how people have successfully transformed their career paths to QA/Software Testing field.
+<p>There are numerous information available online regarding how people have successfully transformed their career paths to QA/Software Testing field.
 Still a book on the software testing as a career is worth having in the bookshelf. The contents is focused on getting into this domain as freshers.
-This book was helpful gaining insights about testing as professional track.
+This book was helpful gaining insights about testing as professional track.</p>
     
 ---
     
@@ -36,5 +36,6 @@ This book was helpful gaining insights about testing as professional track.
 ## Summary:
 <img src="/assets/images/uxdesignbooks.png" width="200">
 <p>
-These two books are introduced during the webinars of UX Design course at UX Design Institute. Both are considered as "must-read" for not only usability designers, developers but also for whoever is working in product development fields. With these readings, I have gained insights on the importance of creating intuitive yet persuasive design that tells consistent stories to the users and thus make it "user-friendly". Think as end-user sounds banal however, when it comes to your own project and you become a designer, you might realize there is certainly a considerable gap in the perspectives of both. The two of the books were good guides for such kind of situations that creators would encounter quite frequently.</p>
+These two books are introduced during the webinars of UX Design course at UX Design Institute. Both are considered as "must-read" for not only usability designers, developers but also for whoever is working in product development fields. With these readings, I have gained insights on the importance of creating intuitive yet persuasive design that tells consistent stories to the users and thus make it "user-friendly". 
+<p>Think as end-user sounds banal however, when it comes to your own project and you become a designer, you might realize there is certainly a considerable gap in the perspectives of both. The two of the books were good guides for such kind of situations that creators would encounter quite frequently.</p>
 
