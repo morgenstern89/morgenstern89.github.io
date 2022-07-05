@@ -20,7 +20,7 @@ Welcome, my name is <strong>Sarah</strong>.
 
 <h4>To navigate the website</h4>
 <li> <strong>Project</strong>: My course works from relevant topics</li>
-<li> <strong>Inspired</strong>: My curation of insightful contents sources </li>
+<li> <strong>Inspired</strong>: My curation of insightful contents </li>
 <li> <strong>Résumé</strong>: My curriculum vitae with professional history</li>
 
 
