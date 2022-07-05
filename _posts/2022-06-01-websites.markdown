@@ -1,0 +1,53 @@
+---
+title: 🖥️ Websites
+layout: post
+date: 2022-06-01 22:48
+image: /assets/images/websites.png
+headerImage: true
+blog: true
+tag:
+- software testing
+- qa
+- tester community
+category: blog
+author: sarahyoon
+description: Websites with useful information on testing and courses
+---
+
+## Ministry of Testing 
+
+## Summary:
+    
+This community was frequently mentioned and recommended by software testing professionals from various online articles and forums.
+Indeed the site provides abundant course packs on different testing automation techniques as well as podcasts, postings, discussion channels and many more.
+
+A number of virtual events are organized as well, even if one is not so well connected with testers locally, this opportunity would work nicely to get information from others worldwide and to be able to network.
+<br>[Ministry of Testing website](https://www.ministryoftesting.com/)
+
+---
+
+## Guru99
+
+## Summary:
+    
+In my opinion, many QA testers are already familiar with this website. The site provides numerous tutorials on testing and offers mock project on manual testing.
+I particularly find their live real-time mock testing projects very well-prepared for the learners. After one registration, every day the learner receives an email from Guru99 with the steps of testing activities which will be covered.
+In this project, I could take a glimpse on how everyday manual testing flow will be processed with many sample templates of important artifacts. (E.g. test cases, SRS documentation, etc.).
+It was about a banking app for desktop and goes through the whole testing lifecycle phase by phase.
+
+
+There are many other types of testing information, knowledge articles are available.
+<br>[Guru99 - Manual Testing project](https://user-images.githubusercontent.com/39444963/177168232-af98e2bd-f11f-42ac-a0bd-d5b3945ee654.png)
+
+---
+
+## Test Automation University
+
+## Summary: 
+This page provides numerous courses on test automation approaches with different frameworks and programming languages.
+Here is more learning focused.
+
+<p>
+[Test Automation University](https://testautomationu.applitools.com/)
+    
+---
