@@ -2,7 +2,14 @@
 title: ":gear: Test Automation"
 layout: post
 date: 2022-06-05 22:10
-tag: jekyll
+tag: 
+- automation framework
+- cypress
+- node.js
+- selenium
+- python
+- rest-api
+- cucumber bdd
 image: /assets/images/testautomationtools.png 
 headerImage: true
 projects: true
