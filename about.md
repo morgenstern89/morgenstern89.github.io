@@ -4,13 +4,12 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<h4> Welcome :)</h4>
-My name is <strong>Sarah</strong>. 
+
+Welcome, my name is <strong>Sarah</strong>. 
 <br>Currently I am searching for opportunity to work as a QA Software Tester and I am based in Germany.
 
 <h4>Let me tell you something: <i>I am not a classical IT person.</i></h4>
-<p>My academic background is in the most human-centered field and my corporate career began in Organizational Development and a finger snap, I <i><strong>accidently landed in IT</strong></i> when the firm was under restructuring. 
-<i> Then I hoped that this will only be a clash landing </i> -- It was a shocking transition at that time, without ever realizing that later this would become a <strong>fateful pivot</strong> that affects my entire career.</p>
+<p>My academic background is in the most human-centered field and began corporate career at HR. Then, I <i>accidently landed</i> in IT when the firm was under restructuring. I thought and hope it will only be a clash landing. It was a shocking transition at that time, without ever realizing this would become a <strong>fateful pivot</strong> that affects my entire career.</p>
 
 <h4>What is technology and what does it mean to work in tech fields?</h4>
 <p>It is about making our life better through connection. 
@@ -27,7 +26,7 @@ My name is <strong>Sarah</strong>.
 
 ---
 <h4>Knowledge & Skills:</h4>
-<p>
+
 <h5>Role Related</h5>
 
 <ul class="skill-list">
@@ -37,7 +36,7 @@ My name is <strong>Sarah</strong>.
 	<li>Mobile App Testing Automation (Appium, Android Studio)</li>
 	<li>Programming Basic (Python for pytest, Javascript, JAVA)</li>
 	<li>API Testing (REST-API, Postman)</li>
-	<li>MySQL (Database connection for WordPress)
+	<li>MySQL (Database connection for WordPress)</li>
 </ul>
 
 <h5>IT Organization</h5>
@@ -49,7 +48,7 @@ My name is <strong>Sarah</strong>.
 	<li>COBIT5 IT Governance</li>
 	<li>E-Learning, Digital Education</li>
 </ul>
-</p>
+
 
 
 <!-- <h5>Mobile Working & Collaboration Tools</h5>
