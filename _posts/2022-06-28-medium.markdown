@@ -14,7 +14,7 @@ author: sarahyoon
 description: Collection of related articles on software testing
 ---
 ## Medieum.com | Software Testing Articles
-## Summary:
+### Summary
 
     
 While taking the UX Design course in 2019, I found this blog community calls "Medium.com" where I could read many helpful articles on the experience design, good layouts and product development.
