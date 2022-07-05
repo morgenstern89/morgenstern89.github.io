@@ -19,8 +19,6 @@ description: A podcast show on the topic QA testing.
 The host <strong>Alan Richardson</strong> is a UK-based seasoned tester with abundant experience in the field. First I got to know him on YouTube as he has his YouTube channel, soon I have learned that he has podcasts shows available on Spotify.
 He is telling audiences about getting the first step into the job, test automation related topics, strategies on choosing right testing tools and many more.
 
-Listening to his podcast show was helpful especially when I am practicing coding, I could do the task but still could getting information or insights.
-
 
 My favorite episode of the show: 
 [What is Software Testing? A look at definitions, my definitions, models and why you should create your own](https://open.spotify.com/episode/1bVB0Bf8qDQPGkwdmYrF5s?si=347a448d9d424cc0)
