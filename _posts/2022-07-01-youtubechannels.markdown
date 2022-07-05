@@ -16,8 +16,9 @@ description: Inspiring YouTube channels about tester's life
 
 ## Madeline Elaine's Youtube Channel 
 ![qavideo](/assets/images/qavideos.JPG)
-<p>This is a YouTube channel of a young American influencer who used to transform her career from an English teacher at a local high school to a manual QA tester at a software company.I have been knowing her channel since the year 2021 when I was preparing for the resignation at the previous company and targeting my next career goal into Software Testing domain.
+<p>This is a YouTube channel of a young American influencer who used to transform her career from an English teacher at a local high school to a manual QA tester at a software company.I have been knowing her channel since the year 2021 when I was preparing for the resignation at the previous company and targeting my next career goal into Software Testing domain. </p>
 
+## Summary
 <p>In her channel, she uploaded and shared many episodes on her "8 to 5 corporate manual QA tester home-office job" and useful Q&As on how to move into the job field.
 To me, her story was particularly compelling because she has studied literature and education which resemble with my undergraduate majors in humanities and was able to switch career into tech field.
 Also she is a woman working in tech industry, which has inspired and encouraged me a lot.
