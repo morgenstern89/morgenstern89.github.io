@@ -14,12 +14,9 @@ author: sarahyoon
 description: Inspiring YouTube channels about tester's life
 ---
 
-## Madeline Elaine's YouTube Channel
-
-## Summary:
+## Madeline Elaine's Youtube Channel 
 ![qavideo](/assets/images/qavideos.JPG)
 <p>This is a YouTube channel of a young American influencer who used to transform her career from an English teacher at a local high school to a manual QA tester at a software company.I have been knowing her channel since the year 2021 when I was preparing for the resignation at the previous company and targeting my next career goal into Software Testing domain.
-
 
 <p>In her channel, she uploaded and shared many episodes on her "8 to 5 corporate manual QA tester home-office job" and useful Q&As on how to move into the job field.
 To me, her story was particularly compelling because she has studied literature and education which resemble with my undergraduate majors in humanities and was able to switch career into tech field.
@@ -27,13 +24,13 @@ Also she is a woman working in tech industry, which has inspired and encouraged 
 
 My favorite episode of the channel: 
 [Why I Quit Teaching and How I Became a QA Analyst](https://youtu.be/9BqKZ_BRLVs)
-    
-    
----
-  
-## ISTQB Foundation Level Syllabus Playlist
+ 
+</p>
 
+--- 
+## ISTQB Foundation Level Syllabus Playlist
 ## Summary:
+    
 ![istab](/assets/images/istqb.PNG)
 While searching for useful resources on preparing ISTQB certification, I have found the channel "TM Square" and this playlist which covers the contents of the foundation level syllabus.
 Watching the videos was very good exercise for me before enrolling myself at an intensive 4-day seminar on test management and ISTQB preparation at the end of April 2022.
@@ -41,12 +38,8 @@ Watching the videos was very good exercise for me before enrolling myself at an 
 
 [ISTQB Foundation Level Syllabus Playlist](https://youtube.com/playlist?list=PLj5VKaW115t1o1hk5ZbNWFr4sW5mBpvmv))
 
-    
-    
 ---
-    
 ## Desi in Deustchland
-    
 ## Summary:
 ![desi](/assets/images/desi.JPG)
 <p>This is a YouTube channel of an Indian lady who is immigrated to Germany and is working as as software tester.
@@ -58,4 +51,3 @@ My favorite playlist of the channel:
 
 ---
     
-##
