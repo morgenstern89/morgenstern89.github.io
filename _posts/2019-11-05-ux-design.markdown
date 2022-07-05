@@ -2,7 +2,10 @@
 title: ":selfie: User Experience Design"
 layout: post
 date: 2019-11-05 22:10
-tag: ui/ux
+tag: 
+- ui/ux
+- ux design
+- product development
 image: /assets/images/ux mockup.JPG
 headerImage: true
 projects: true
