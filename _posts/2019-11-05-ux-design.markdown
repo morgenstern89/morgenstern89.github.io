@@ -3,7 +3,7 @@ title: ":selfie: User Experience Design"
 layout: post
 date: 2019-11-05 22:10
 tag: jekyll
-image: /assets/images/ux mockup.PNG
+image: /assets/images/ux mockup.JPG
 headerImage: true
 projects: true
 hidden: true
