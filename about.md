@@ -6,20 +6,16 @@ layout: page
 
 <p>Welcome, my name is <strong>Sarah</strong>.
 <p>Let me tell you something: <i><strong>I am not a classical IT person.</strong></i>
-<br>My academic background is in the most human-centered field and my corporate career began in Organizational Development. Then, I <i><strong>accidently</strong></i> landed in IT when the firm was under restructuring. A job was opening from an infrastructure department to help change management of the service desk transformation. A finger snap, I was repositioned to IT.
+<br>My academic background is in the most human-centered field and my corporate career began in Organizational Development. Then one day, I <i><strong>accidently</strong></i> landed in IT when the firm was under restructuring. A finger snap, I came to an IT department.
 <p><strong><i> Hang on, a liberal arts graduate will work for an IT team? </i></strong>
 <p>It was a shocking transition at that time, without ever realizing that this would later become a <strong>fateful movement</strong> in my entire career.</p>
 
-<p>While working in IT&D division, I have realized that information technology is a fascinating area. Here I could learn the process driven IT management such as project & portfolio management, ERP implementation, IT Governance, organizational transformation. However my ever-growing thirst for more tech-savvy topics was not achievable in the given setting, finally I have decided to take a year sabbatical to allow myself enough time and environment for reshaping the career path.</p>
+<p>While working in IT&D area, I have realized that information technology is a fascinating area. Here I could learn the process driven IT project and change management. In the meantime the thirst was growing for more tech-savvy topics and I took a sabbatical break to allow myself enough time and environment for reshaping the career path. Amongst various technical career tracks, I find <strong>Software Testing</strong> is a great fit for me as the job itself seems a representation of myself: combination of tech-driven nature and non-tech softskills and the emphasis on attention to details, understanding process driven work flow, thorough documentation and communication. As a diligent learner, having <strong>ISTQB Foundation Level</strong> certification already under my belt, I am motivated to take specialization paths such as <strong>Mobile Application Tester</strong> and <strong>Test Automation</strong>.</p>
 
-<p>I find <strong>Software Testing</strong> is a great fit for me as the job itself seems a representation of myself: <strong>combination of tech-driven nature and non-tech softskills and the emphasis on attention to details, understanding process driven work flow, thorough documentation and communication.</strong></p>
-
-<p>Back to my story - a girl who used to study human languages, history and social interactions is now learning programming languages, history of tools and frameworks and the interaction between components of applications. Experiencing the unique changeover, I will play a key role bridging different stakeholders as a tester and I believe becoming a bridge to connect will be, using the words of <i><strong>Jean-Paul Sartre</strong></i>, the <i><strong>raison d'être</strong></i> of technology.</p>
+<p>Back to my story - a girl who used to study human languages, history and social interactions is now learning programming languages, history of tools and frameworks and the interaction between components of applications. Experiencing the unique changeover, I will play a key role bridging different stakeholders as a tester and I believe becoming a bridge to connect will be, using the words of <i>Jean-Paul Sartre</i>, the <i>raison d'être</i> of technology.</p>
 
 
-<p>Having <strong>ISTQB Foundation Level</strong> certification under my belt, now I am motivated to take specialization paths such as <strong>Mobile Application Tester</strong> and eventually <strong>Test Automation Engineer</strong>.
-	
-</p>
+<p>For the navigation, under <strong>Project</strong>, you will find projects I have done out of multiple courses in the topics in test automation and mobile appplication testing, including graphic and user experience designs. Under <strong>Inspired</strong>, you will see various contents sources that I gained insights about this field. Last but not least, you can click on <strong>Résumé</strong> to screen my curriculum vitae.</p>
 <br>
 <h2>Role Related Skills for Testing</h2>
 
