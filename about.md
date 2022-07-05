@@ -9,7 +9,7 @@ Welcome, my name is <strong>Sarah</strong>.
 <br>
 
 <h4>Let me tell you something: <i>I am not a classical IT person.</i></h4>
-<p>My academic background is in the most human-centered field and began corporate career at HR. Then, I <i>accidently landed</i> in IT when the firm was under restructuring. I thought it will only be a clash landing, without ever realizing this would later become a <strong>fateful pivot</strong> in my life.</p>
+<p>My academic background is in humanities and began corporate career at HR. Then, I <i>accidently landed</i> in IT when the firm was under restructuring. I thought it will only be a clash landing, without ever realizing this would later become a <strong>fateful pivot</strong> in my life.</p>
 
 <h4>What is technology and what does it mean to work in tech fields?</h4>
 <p>It is about making our life better and closer through connection. 
