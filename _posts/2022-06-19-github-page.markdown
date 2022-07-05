@@ -13,8 +13,7 @@ author: sarahyoon
 externalLink: false
 
 ---
-
-[Screenshot](/assets/images/jekyllpage.png)
+<img src="/assets/images/jekyllpage.png" width="600">
 
 ## About Project
 
@@ -24,14 +23,16 @@ The project was finalized in **June 2022**.
 
 Besides, customizing a page based on an existing template was a great occasion to fine-tuning the front-end web development skills and knowledge on Git which have been obtained through courses. As Jekyll is a static site generator in Ruby, getting to know about it was additional learning point. 
 
-This work has been done for creating a Github Page using Jekyll Theme [Indigo](https://github.com/sergiokopplin/indigo).
+This work was for creating a Github Page using Jekyll Theme [Indigo](https://github.com/sergiokopplin/indigo).
+<br>In addition to this, I wanted to integrate another Theme for the online CV and for this I have forked a bootstrap template from [Orbit Theme](https://github.com/xriley/Orbit-Theme).
 
 ---
 
 ## What has inside?
 
-- Personal profile summary
+- Personal profile & introduction
 - Collection of Product development & test related projects
+- Curated contents 
 - Contact information
 
 
@@ -42,6 +43,7 @@ This work has been done for creating a Github Page using Jekyll Theme [Indigo](h
 - **HTML**, **SCSS** for page customization
 - **Visual Studio Code** as editor of choice
 - **Gitbash**, **Github**
+- **Favicon** creation 
 
 
 ---
