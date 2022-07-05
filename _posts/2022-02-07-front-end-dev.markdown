@@ -2,7 +2,10 @@
 title: ":computer: Front-End Web Development"
 layout: post
 date: 2022-02-07 22:10
-tag: jekyll
+tag: 
+- html & css
+- javascript
+- front-end
 image: /assets/images/frontendlogos.png
 headerImage: true
 projects: true
