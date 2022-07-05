@@ -18,7 +18,7 @@ description: Inspiring YouTube channels about tester's life
 ![qavideo](/assets/images/qavideos.JPG)
 <p>This is a YouTube channel of a young American influencer who used to transform her career from an English teacher at a local high school to a manual QA tester at a software company.I have been knowing her channel since the year 2021 when I was preparing for the resignation at the previous company and targeting my next career goal into Software Testing domain. </p>
 
-## Summary
+### Summary
 <p>In her channel, she uploaded and shared many episodes on her "8 to 5 corporate manual QA tester home-office job" and useful Q&As on how to move into the job field.
 To me, her story was particularly compelling because she has studied literature and education which resemble with my undergraduate majors in humanities and was able to switch career into tech field.
 Also she is a woman working in tech industry, which has inspired and encouraged me a lot.</p>
@@ -29,7 +29,7 @@ My favorite episode of the channel:
 
 --- 
 ## ISTQB Foundation Level Syllabus Playlist
-## Summary
+### Summary
     
 ![istab](/assets/images/istqb.PNG)
 <p>While searching for useful resources on preparing ISTQB certification, I have found the channel "TM Square" and this playlist which covers the contents of the foundation level syllabus.
@@ -40,7 +40,7 @@ Watching the videos was very good exercise for me before enrolling myself at an 
 
 ---
 ## Desi in Deustchland
-## Summary
+### Summary
 ![desi](/assets/images/desi.JPG)
 <p>This is a YouTube channel of an Indian lady who is immigrated to Germany and is working as a software tester.
 As I am also a female immigrant living in Germany and wanting to work in the same field, it was a pleasure to get to know her channel.
