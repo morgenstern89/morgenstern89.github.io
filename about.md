@@ -8,12 +8,12 @@ layout: page
 My name is <strong>Sarah</strong>. 
 <br>Currently I am searching for opportunity to work as a QA Software Tester and I am based in Germany.
 
-<h4>Let me tell you something: <i>I am not a classical IT person.</h4>
-My academic background is in the most human-centered field and my corporate career began in Organizational Development and a finger snap, I <i><strong>accidently landed in IT</strong></i> when the firm was under restructuring. 
-<p><i> Then I hoped that this will only be a clash landing </i> -- It was a shocking transition at that time, without ever realizing that later this would become a <strong>fateful pivot</strong> that affects my entire career because since I came to IT, I began realizing how fascinating this domain is. </p>
+<h4>Let me tell you something: <i>I am not a classical IT person.</i></h4>
+<p>My academic background is in the most human-centered field and my corporate career began in Organizational Development and a finger snap, I <i><strong>accidently landed in IT</strong></i> when the firm was under restructuring. 
+<i> Then I hoped that this will only be a clash landing </i> -- It was a shocking transition at that time, without ever realizing that later this would become a <strong>fateful pivot</strong> that affects my entire career.</p>
 
 <h4>What is technology and what does it mean to work in tech fields?</h4>
-It is about making our life better through connection. 
+<p>It is about making our life better through connection. 
 <br>A girl studied human languages, history and social interactions is now learning programming languages, history of tools and frameworks and the interaction between components of applications. This unique changeover is a good example of bridging worlds to connect - this reflects on, using the words of <i>Jean-Paul Sartre</i>, the <i>raison d'être</i> of technology. Working in tech industry means participating in the connection journey.</p>
 
 <h4> ...and why Testing?</h4>
@@ -49,6 +49,8 @@ Software Testing will be a great fit for me. I find the job itself represents my
 	<li>COBIT5 IT Governance</li>
 	<li>E-Learning, Digital Education</li>
 </ul>
+
+
 
 <!-- <h5>Mobile Working & Collaboration Tools</h5>
 
