@@ -16,7 +16,7 @@ description: Websites with useful information on testing and courses
 
 ## Ministry of Testing 
 
-## Summary:
+### Summary
 <img src="/assets/images/ministryoftesting.PNG" width="200">
 <p>This community was frequently mentioned and recommended by software testing professionals from various online articles and forums.
 Indeed the site provides abundant course packs on different testing automation techniques as well as podcasts, postings, discussion channels and many more.</p>
@@ -28,7 +28,7 @@ A number of virtual events are organized as well, even if one is not so well con
 
 ## Guru99
 
-## Summary:
+### Summary
 <img src="/assets/images/guru99.jpg" width="200">   
 <p>In my opinion, many QA testers are already familiar with this website. The site provides numerous tutorials on testing and offers mock project on manual testing.
 I particularly find their live real-time mock testing projects very well-prepared for the learners. After one registration, every day the learner receives an email from Guru99 with the steps of testing activities which will be covered.</p>
@@ -43,7 +43,7 @@ There are many other types of testing information, knowledge articles are availa
 
 ## Test Automation University
 
-## Summary: 
+### Summary 
 <img src="/assets/images/testautomationuni.JPG" width="200">
 <p>This page provides numerous courses on test automation approaches with different frameworks and programming languages.</p>
 Here is more learning focused.
