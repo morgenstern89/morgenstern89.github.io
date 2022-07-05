@@ -1,0 +1,40 @@
+---
+title: 📖 Books 
+layout: post
+date: 2022-05-24 22:48
+image: /assets/images/books.png
+headerImage: true
+blog: true
+tag:
+- softwaretesting
+- qa reading
+- testing books
+category: blog
+author: sarahyoon
+description: Good books to read on the topic Software Testing.
+
+---
+## The Art of Software Testing, 3rd Edition
+## Summary:
+<img src="/assets/images/theartofsoftwaretesting.jpg" width="100">
+<p>This book is about software testing and its approach with different testing methods. 
+Also it covers trendy topics such as mobile application testing which is one of my interests.
+While learning only UX Design, I was only focusing on user research and usability tests. 
+As I am getting more knowledge on software testing as a whole, I can see the complexity of building digtal products like software and the necessity of testing techniques as well as the importance.
+
+---
+## Software Testing Career Package
+## Summary:
+<img src="/assets/images/softwaretestingcareerpack.jpg" width="100">
+There are numerous information available online regarding how people have successfully transformed their career paths to QA/Software Testing field.
+Still a book on the software testing as a career is worth having in the bookshelf. The contents is focused on getting into this domain as freshers.
+This book was helpful gaining insights about testing as professional track.
+    
+---
+    
+## Don't Make Me Think & The Design of Everyday Things
+## Summary:
+<img src="/assets/images/uxdesignbooks.png" width="200">
+<p>
+These two books are introduced during the webinars of UX Design course at UX Design Institute. Both are considered as "must-read" for not only usability designers, developers but also for whoever is working in product development fields. With these readings, I have gained insights on the importance of creating intuitive yet persuasive design that tells consistent stories to the users and thus make it "user-friendly". Think as end-user sounds banal however, when it comes to your own project and you become a designer, you might realize there is certainly a considerable gap in the perspectives of both. The two of the books were good guides for such kind of situations that creators would encounter quite frequently.
+---
