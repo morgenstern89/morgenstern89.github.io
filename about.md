@@ -9,7 +9,7 @@ Welcome, my name is <strong>Sarah</strong>.
 <br>I am searching for a QA Tester position and am based in Germany.
 
 <h4>Let me tell you something: <i>I am not a classical IT person.</i></h4>
-<p>My academic background is in the most human-centered field and began corporate career at HR. Then, I <i>accidently landed</i> in IT when the firm was under restructuring. I thought it will only be a clash landing. It was a shocking transition at that time, without ever realizing this would become a <strong>fateful pivot</strong> that affects my entire career.</p>
+<p>My academic background is in the most human-centered field and began corporate career at HR. Then, I <i>accidently landed</i> in IT when the firm was under restructuring. I thought it will only be a clash landing. It was a shocking transition at that time, without ever realizing this would become a <strong>fateful pivot</strong>.</p>
 
 <h4>What is technology and what does it mean to work in tech fields?</h4>
 <p>It is about making our life better and closer through connection. 
