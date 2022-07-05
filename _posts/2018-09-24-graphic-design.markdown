@@ -2,7 +2,10 @@
 title: ":art: Graphic Design"
 layout: post
 date: 2018-09-24 22:10
-tag: jekyll
+tag: 
+- adobe creative suites
+- graphic design
+- branding
 image: /assets/images/signboard1.png
 headerImage: true
 projects: true
