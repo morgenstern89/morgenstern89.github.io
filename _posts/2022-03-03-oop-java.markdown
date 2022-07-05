@@ -2,7 +2,7 @@
 title: ":woman_technologist: OOP with JAVA"
 layout: post
 date: 2022-03-03 22:10
-tag: jekyll
+tag: java
 image: /assets/images/javaintellij.png
 headerImage: true
 projects: true
