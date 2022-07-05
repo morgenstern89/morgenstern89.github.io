@@ -1,5 +1,5 @@
 ---
-title: 🎧 Podcast | Tester's Talk
+title: 🎧 Podcast
 layout: post
 date: 2022-07-03 22:48
 image: /assets/images/eviltester.png
@@ -11,12 +11,10 @@ tag:
 - testing podcast
 category: blog
 author: sarahyoon
-description: A podcast show from a host who has experience in testing since mid-90's.
+description: A podcast show on the topic QA testing.
 ---
-
+## The Evil Tester Show
 ## Summary:
-
-<strong>The Evil Tester Show</strong>
     
 The host <strong>Alan Richardson</strong> is a UK-based seasoned tester with abundant experience in the field. First I got to know him on YouTube as he has his YouTube channel, soon I have learned that he has podcasts shows available on Spotify.
 He is telling audiences about getting the first step into the job, test automation related topics, strategies on choosing right testing tools and many more.
