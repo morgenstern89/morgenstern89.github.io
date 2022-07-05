@@ -13,7 +13,7 @@ Welcome, my name is <strong>Sarah</strong>.
 
 <h4>What is technology and what does it mean to work in tech fields?</h4>
 <p>It is about making our life better and closer through connection. 
-<br>A girl studied human languages, history and social interactions is now learning programming languages, history and interaction of frameworks and tools. This unique changeover is a good example of connecting and bridging - this mentality would be, citing the words of <i>Jean-Paul Sartre</i>, the <i>raison d'être</i> of technology. To me, working in tech industry means participating in the connection journey.</p>
+<br>A girl studied human languages, history and social interactions is now learning programming languages, history and interaction of frameworks and tools. The unique changeover is a good example of connecting and bridging - this mentality would be, citing the words of <i>Jean-Paul Sartre</i>, the <i>raison d'être</i> of technology. To me, working in tech industry means participating in the connection journey.</p>
 
 <h4> ...and why Testing?</h4>
 <p>Amongst many tech career tracks, Testing will be a great fit for me. I find the job represents myself very well: The combination of non-tech softskills & tech-savvy hardskills, attention to details, process oriented, thorough documentation and communication. Putting <strong>ISTQB Foundation Level</strong> certification under my belt, I am motivated to take specialization paths such as <strong>Mobile Application Testing</strong> and <strong>Test Automation</strong>.</p>
