@@ -16,7 +16,7 @@ Welcome, my name is <strong>Sarah</strong>.
 <br>A girl studied human languages, history and social interactions is now learning programming languages, history and interaction of frameworks and tools. The unique changeover is a good example of connecting and bridging - this mentality would be, citing the words of <i>Jean-Paul Sartre</i>, the <i>raison d'être</i> of technology. To me, working in tech industry means participating in the connection journey.</p>
 
 <h4> ...and why Testing?</h4>
-<p>Testing will be a great fit for me. I find the job represents myself very well: The combination of non-tech softskills & tech-savvy hardskills, attention to details, process oriented, thorough documentation and communication. Putting <strong>ISTQB Certification</strong> under my belt, I want further specializations in <strong>Mobile Application Testing</strong> and <strong>Test Automation</strong>.</p>
+<p>Testing will be a great fit for me. I find the job represents myself very well: The combination of non-tech softskills & tech-savvy hardskills, attention to details, process oriented, thorough documentation and communication. Putting <strong>ISTQB Certification</strong> under my belt, I want further specialization in <strong>Mobile Application Testing</strong> and <strong>Test Automation</strong>.</p>
 
 <h4>To navigate the website</h4>
 <li> <strong>Project</strong>: My course works from relevant topics</li>
