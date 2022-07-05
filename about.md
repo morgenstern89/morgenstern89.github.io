@@ -6,7 +6,7 @@ layout: page
 
 
 Welcome, my name is <strong>Sarah</strong>. 
-<br>Currently I am searching for opportunity to work as a QA Software Tester and I am based in Germany.
+<br>Currently I am searching for opportunity to work as a QA Software Tester and am based in Germany.
 
 <h4>Let me tell you something: <i>I am not a classical IT person.</i></h4>
 <p>My academic background is in the most human-centered field and began corporate career at HR. Then, I <i>accidently landed</i> in IT when the firm was under restructuring. I thought and hope it will only be a clash landing. It was a shocking transition at that time, without ever realizing this would become a <strong>fateful pivot</strong> that affects my entire career.</p>
