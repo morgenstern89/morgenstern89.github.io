@@ -29,7 +29,7 @@ My favorite episode of the channel:
 
 --- 
 ## ISTQB Foundation Level Syllabus Playlist
-## Summary:
+## Summary
     
 ![istab](/assets/images/istqb.PNG)
 <p>While searching for useful resources on preparing ISTQB certification, I have found the channel "TM Square" and this playlist which covers the contents of the foundation level syllabus.
@@ -40,7 +40,7 @@ Watching the videos was very good exercise for me before enrolling myself at an 
 
 ---
 ## Desi in Deustchland
-## Summary:
+## Summary
 ![desi](/assets/images/desi.JPG)
 <p>This is a YouTube channel of an Indian lady who is immigrated to Germany and is working as a software tester.
 As I am also a female immigrant living in Germany and wanting to work in the same field, it was a pleasure to get to know her channel.
