@@ -32,7 +32,7 @@ This book was helpful gaining insights about testing as professional track.</p>
     
 ---
     
-## Don't Make Me Think & The Design of Everyday Things
+## Don't Make Me Think & <br>The Design of Everyday Things
 ## Summary:
 <img src="/assets/images/uxdesignbooks.png" width="200">
 <p>
