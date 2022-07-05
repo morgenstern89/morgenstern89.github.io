@@ -5,8 +5,8 @@ layout: page
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 <h4> Welcome :)</h4>
-My name is <strong>Sarah</strong> and I am based in Germany. 
-<br>Currently I am searching for opportunity to work as a QA Software Tester.
+My name is <strong>Sarah</strong>. 
+<br>Currently I am searching for opportunity to work as a QA Software Tester and I am based in Germany.
 
 <h4>Let me tell you something: <i>I am not a classical IT person.</h4>
 My academic background is in the most human-centered field and my corporate career began in Organizational Development and a finger snap, I <i><strong>accidently landed in IT</strong></i> when the firm was under restructuring. 
