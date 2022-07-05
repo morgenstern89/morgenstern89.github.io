@@ -2,7 +2,11 @@
 title: "📱 Mobile App Testing with APPIUM" 
 layout: post
 date: 2022-07-03 21:10
-tag: jekyll
+tag: 
+- android studio
+- appium
+- mobile test automation
+- mobile devices
 image: /assets/images/mobileapptesting.png
 headerImage: true
 projects: true
