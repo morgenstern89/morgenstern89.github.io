@@ -32,8 +32,8 @@ My favorite episode of the channel:
 ## Summary:
     
 ![istab](/assets/images/istqb.PNG)
-While searching for useful resources on preparing ISTQB certification, I have found the channel "TM Square" and this playlist which covers the contents of the foundation level syllabus.
-Watching the videos was very good exercise for me before enrolling myself at an intensive 4-day seminar on test management and ISTQB preparation at the end of April 2022.
+<p>While searching for useful resources on preparing ISTQB certification, I have found the channel "TM Square" and this playlist which covers the contents of the foundation level syllabus.
+Watching the videos was very good exercise for me before enrolling myself at an intensive 4-day seminar on test management and ISTQB preparation at the end of April 2022.</p>
 
 
 [ISTQB Foundation Level Syllabus Playlist](https://youtube.com/playlist?list=PLj5VKaW115t1o1hk5ZbNWFr4sW5mBpvmv))
