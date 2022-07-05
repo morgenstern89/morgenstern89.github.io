@@ -36,7 +36,7 @@ My favorite episode of the channel:
 Watching the videos was very good exercise for me before enrolling myself at an intensive 4-day seminar on test management and ISTQB preparation at the end of April 2022.</p>
 
 
-[ISTQB Foundation Level Syllabus Playlist](https://youtube.com/playlist?list=PLj5VKaW115t1o1hk5ZbNWFr4sW5mBpvmv))
+[ISTQB Foundation Level Syllabus Playlist](https://youtube.com/playlist?list=PLj5VKaW115t1o1hk5ZbNWFr4sW5mBpvmv)
 
 ---
 ## Desi in Deustchland
