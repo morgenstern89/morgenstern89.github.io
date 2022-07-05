@@ -15,7 +15,13 @@ externalLink: false
 ---
 
 ## About Project
-<img src="/assets/images/phoneview.JPG" height=300>  <img src="/assets/images/mockimage.png" width=400 height=300> 
+
+ <table>
+  <tr>
+    <td><img src="/assets/images/phoneview.JPG" width=200 height=300></td>
+    <td><img src="/assets/images/mockimage.png" width=370 height=300></td>
+  </tr>
+ </table>
 
 **Goal:Understanding UX Design process and as a final outcome creating wireframe of a mobile application.**
 
