@@ -34,8 +34,8 @@ relevant picture will be displayed in the background.
 - Overall structure was written in **HTML** and stylized with **CSS**.
 - The editor of choice was **Visual Studio Code**. 
 - To ease the build, icons are referenced from **Font Awesome**.
+<img src="/assets/images/weatherapp.png" width=550>
 
-[Screenshot](/assets/images/weatherapp.png)
 
 
 ## Take a Look
@@ -56,7 +56,8 @@ Overall structure was built with **HTML** and **CSS**.
 The editor of choice was **Visual Studio Code**.
 To ease the build, some components are referenced from **Font Awesome** and **Bootstrap**.
 
-[Screenshot](/assets/images/todoapp.png)
+<img src="/assets/images/todoapp.png" width=550>
+
 
 ## Take a Look
 
@@ -75,7 +76,7 @@ Overall structure was built with **HTML** and stylized with **CSS**.
 For a animated effect for the images in the body area, picture carousel was referenced from **Bootstrap**.
 The editor of choice was **Visual Studio Code**.
 
-[Screenshot](/assets/images/webpage.png)
+<img src="/assets/images/webpage.png" width=550>
 
 ## Take a Look
 - [Go to Git Repository](https://github.com/morgenstern89/Demo-Website-Project.git) 
