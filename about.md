@@ -17,17 +17,17 @@ My name is <strong>Sarah</strong>.
 <br>A girl studied human languages, history and social interactions is now learning programming languages, history of tools and frameworks and the interaction between components of applications. This unique changeover is a good example of bridging worlds to connect - this reflects on, using the words of <i>Jean-Paul Sartre</i>, the <i>raison d'être</i> of technology. Working in tech industry means participating in the connection journey.</p>
 
 <h4> ...and why Testing?</h4>
-Software Testing will be a great fit for me. I find the job itself represents myself: The combination of non-tech softskills & tech-savvy hardskills, attention to details, process oriented, thorough documentation and communication. Besides, it is a rewarding career in which I can contribute added value while ensuring product competence which leads to customer satisfaction and make their life easier. As a diligent learner, having <strong>ISTQB Foundation Level</strong> certification under my belt, I am motivated to take specialization paths such as <strong>Mobile Application Testing</strong> and <strong>Test Automation</strong>.</p>
+<p>Software Testing will be a great fit for me. I find the job itself represents myself: The combination of non-tech softskills & tech-savvy hardskills, attention to details, process oriented, thorough documentation and communication. Besides, it is a rewarding career in which I can contribute added value while ensuring product competence which leads to customer satisfaction and make their life easier. As a diligent learner, having <strong>ISTQB Foundation Level</strong> certification under my belt, I am motivated to take specialization paths such as <strong>Mobile Application Testing</strong> and <strong>Test Automation</strong>.</p>
 
 <h4>To navigate the website</h4>
-- <strong>Project</strong>: My course works from relevant topics
-- <strong>Inspired</strong>: My curation of contents sources that has inspired me 
-- <strong>Résumé</strong>: My curriculum vitae with professional history
+<li> <strong>Project</strong>: My course works from relevant topics</li>
+<li> <strong>Inspired</strong>: My curation of contents sources that has inspired me </li>
+<li> <strong>Résumé</strong>: My curriculum vitae with professional history</li>
 
 
 ---
 <h4>Knowledge & Skills:</h4>
-
+<p>
 <h5>Role Related</h5>
 
 <ul class="skill-list">
@@ -49,7 +49,7 @@ Software Testing will be a great fit for me. I find the job itself represents my
 	<li>COBIT5 IT Governance</li>
 	<li>E-Learning, Digital Education</li>
 </ul>
-
+</p>
 
 
 <!-- <h5>Mobile Working & Collaboration Tools</h5>
