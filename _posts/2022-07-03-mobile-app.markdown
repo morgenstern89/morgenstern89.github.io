@@ -35,6 +35,8 @@ The course covers both Android and iOS devices to automate test cases.
 -  BrowserStack Integration
 -  GitHub Action CI Integration
 
+<p>With <b>Appium Inspector</b>, I could link the device on the <b>Android Studio</b> emulator and can check element by element, copying <b>Xpath</b> and use it in test cases. I ran the test either directly on the <b>Visual Studio Code</b> terminal or <b>Window's terminal</b>.</p>
+
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/727446219?h=cdb901cb6b&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="2022, 5:44:16 PM (Copy)"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
