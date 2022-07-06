@@ -39,14 +39,16 @@ Welcome, my name is <strong>Sarah</strong>.
 	<li>MySQL (Database connection for WordPress)</li>
 </ul>
 
-<h4>IT Organization</h4>
+<h4>IT Domain</h4>
 
 <ul class="skill-list">
 	<li>Project Management</li>
+	<li>User Experience Design</li>
 	<li>IT Transformation(Change Management)</li>
 	<li>ITIL Service Management Lifecycle</li>
 	<li>COBIT5 IT Governance</li>
 	<li>E-Learning, Digital Education</li>
+	<li>Digital Creativity(Graphic & VFX)</li>
 </ul>
 
 
