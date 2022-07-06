@@ -56,6 +56,7 @@ The course covers both Android and iOS devices to automate test cases.
 
 ---
 
-## Take a Look -->
+<!-- ## Take a Look  -->
+
 
 <!-- [Go to Git Repository](https://github.com/morgenstern89/morgenstern89.github.io.git)  -->
