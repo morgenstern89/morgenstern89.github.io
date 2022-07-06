@@ -14,6 +14,8 @@ hr {
     box-sizing: content-box;
     height: 0;
     overflow: visible;
+    color:#505559;
+    width: 50%;
 }
 pre {
     font-family: monospace, monospace;
@@ -502,7 +504,7 @@ pre {
     max-width: 560px;
 }
 .wrapper-large {
-    max-width: 810px;
+    max-width: 1050px;
 }
 .text-center {
     text-align: center;
