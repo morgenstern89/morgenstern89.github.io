@@ -1,5 +1,5 @@
 ---
-title: "📱 Mobile App Testing with APPIUM" 
+title: "📱 Mobile App Testing" 
 layout: post
 date: 2022-07-03 21:10
 tag: 
