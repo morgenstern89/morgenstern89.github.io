@@ -6,7 +6,6 @@ tag:
 - android studio
 - appium
 - mobile test automation
-- mobile devices
 image: /assets/images/mobileapptesting.png
 headerImage: true
 projects: true
