@@ -37,7 +37,8 @@ This work was for creating a Github Page using Jekyll Theme [Indigo](https://git
 - Personal profile & introduction
 - Collection of Product development & test related projects
 - Curated contents 
-- Contact information
+- Online CV
+
 
 
 ## Technique
