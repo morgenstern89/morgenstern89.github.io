@@ -28,11 +28,14 @@ The course ran **from the year 2017 to year 2018**.
 
 ## Technique
 
+<img src="/assets/images/logodrafts.png" width=500>
+
 - **Adobe Illustrator**: drafting and finalizing the logo and motif designs
 - **Adobe Photoshop**: finalizing various mock-up scenes for the portfolio
 - **Adobe InDesign**: finalizing the portfolio booklet
+<br>
+<img src="/assets/images/mockups.png" width=600>
 
-<img src="/assets/images/invitationset.png" width=500>
 
 ---
 
