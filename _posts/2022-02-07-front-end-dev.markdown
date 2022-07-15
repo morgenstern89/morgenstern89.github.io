@@ -26,15 +26,13 @@ The courses were taken from **January to February 2022**.
 
 **Goal: Connecting API endpoint to fetch data and render on UI.**
 
-This project was particularly challenging as it required to connect a weather API and also open-source image stock site.
-In this work, as the keyword entered into the search field, from the weather API, the climate information will be called and from the image stock, 
-relevant picture will be displayed in the background.
+This project was particularly challenging as it required connecting a weather API and also an open-source image stock site. In this work, as the keyword is entered into the search field, from the weather API, the climate information will be called and from the image stock, a relevant picture will be displayed in the background.
 
 ## Technique
 - **API endpoint**: https://api.openweathermap.org 
 - **Open-source image stock**: https://source.unsplash.com
 - **JavaScript** played a key role in this work.
-- Overall structure was written in **HTML** and stylized with **CSS**.
+- The overall structure was written in **HTML** and stylized with **CSS**.
 - The editor of choice was **Visual Studio Code**. 
 - To ease the build, icons are referenced from **Font Awesome**.
 <img src="/assets/images/weatherapp.png" width=550>
@@ -71,10 +69,10 @@ To ease the build, some components are referenced from **Font Awesome** and **Bo
 ## Responsive Home Page 
 **Goal: Creating a landing page for a client as if in a real-life project.**
 
-This project was a final work for the Front-End Web Development course and the purpose is to demonstrate different elements on the webpage and give the responsive feature which can be displayed in other device types.Some interactive effects are also applied such as icon graphics in the button changes or the button size slightly scales up when hovering mouse cursor.
+This project was a final work for the Front-End Web Development course and the purpose is to demonstrate different elements on the webpage and give the responsive feature which can be displayed in other device types. Some interactive effects are also applied such as icon graphics in the button changes or the button size slightly scaling up when hovering the mouse cursor.
 
 ## Technique
-For the responsive feature, **CSS media query** was used.
+For the responsive feature, a **CSS media query** was used.
 Overall structure was built with **HTML** and stylized with **CSS**.
 For a animated effect for the images in the body area, picture carousel was referenced from **Bootstrap**.
 The editor of choice was **Visual Studio Code**.
@@ -98,7 +96,7 @@ Another learning point was to get used to open-source toolkits such as **Bootstr
 ## Technique
 **HTML** and **CSS** are mainly used.
 To ease the build, some components are used from **Bootstrap** and **Font Awesome**.
-For the second project, **CSS media query** was used to enable the responsive feature.
+For the second project, a **CSS media query** was used to enable the responsive feature.
 
 ## Take a Look
 - [Go to Git Repository : Spotify Page](https://github.com/morgenstern89/HTML-CSS-Making-Spotify-Website.git) 
