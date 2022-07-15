@@ -17,18 +17,18 @@ description: Good books to read on the topic Software Testing.
 ## The Art of Software Testing, 3rd Edition
 ### Summary
 <img src="/assets/images/theartofsoftwaretesting.jpg" width="100">
-<p>This book is about software testing and its approach with different testing methods. 
-Also it covers trendy topics such as mobile application testing which is one of my interests.
+<p>This book is about software testing and its approach to different testing methods. 
+Also, it covers trendy topics such as mobile application testing which is one of my interests.
 While learning only UX Design, I was only focusing on user research and usability tests. 
-As I am getting more knowledge on software testing as a whole, I can see the complexity of building digtal products like software and the necessity of testing techniques as well as the importance.</p>
+As I am getting more knowledge on software testing as a whole, I can see the complexity of building digital products like software and the necessity of testing techniques as well as the importance.</p>
 
 ---
 ## Software Testing Career Package
 ### Summary
 <img src="/assets/images/softwaretestingcareerpack.jpg" width="100">
-<p>There are numerous information available online regarding how people have successfully transformed their career paths to QA/Software Testing field.
-Still a book on the software testing as a career is worth having in the bookshelf. The contents is focused on getting into this domain as freshers.
-This book was helpful gaining insights about testing as professional track.</p>
+<p>There is numerous information available online regarding how people have successfully transformed their career paths in QA/Software Testing field.
+Still, a book on software testing as a career is worth having on the bookshelf. The content is focused on getting into this domain as freshers.
+This book helped me gain insights about testing as a professional track.</p>
     
 ---
     
