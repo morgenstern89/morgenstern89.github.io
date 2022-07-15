@@ -19,17 +19,17 @@ externalLink: false
 
 **JAVA Practice**
 
-**Goal: Understanding the basic of object oriented programming(OOP) language.**
+**Goal: Understanding the basics of object oriented programming(OOP) language.**
 
-This was part of a [**Software Testing Bootcamp**](/assets/images/bootcamp.jpg) course which was taken during February to March 2022. Particularly interesting part of the exercises was to learn the 'class' concept which objects can be categorized/ grouped in a class.
+This was part of a [**Software Testing Bootcamp**](/assets/images/bootcamp.jpg) course which was taken during February to March 2022. A particularly interesting part of the exercises was learning the 'class' concept which objects can be categorized/ grouped in a class.
 
 
 ---
 
 ## Technique
 
-Learned the very basic of **JAVA** as a programming language.
-Instead of using **Eclipse**, for the first time the editor **IntelliJ IDEA** was introduced and it was very intuitive coding tool particularly for the beginners.
+Learned the very basics of **JAVA** as a programming language.
+Instead of using **Eclipse**, for the first time, the editor **IntelliJ IDEA** was introduced and it was a very intuitive coding tool, particularly for beginners.
 
 ---
 
