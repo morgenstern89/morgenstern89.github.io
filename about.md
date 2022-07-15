@@ -9,14 +9,14 @@ Welcome, my name is <strong>Sarah</strong>.
 <br>
 
 <h4>Let me tell you something: <i>I am not a classical IT person.</i></h4>
-<p>My academic background is in humanities and began corporate career at HR. Then, I <i>accidently landed</i> in IT when the firm was under restructuring. I thought it will only be a clash landing, without ever realizing this would later become a <strong>fateful pivot</strong> in my life.</p>
+<p>My academic background is in humanities and began my corporate career at HR. Then, I <i>accidentally landed</i> in IT when the firm was under restructuring. I thought it will only be a clash landing, without ever realizing this would later become a <strong>fateful pivot</strong> in my life.</p>
 
 <h4>What is technology and what does it mean to work in tech fields?</h4>
 <p>It is about making our life better and closer through connection. 
-<br>A girl studied human languages, history and social interactions is now learning programming languages, history and interaction of frameworks and tools. The unique changeover is a good example of connecting and bridging differences - this mentality would be, citing the words of <i>Jean-Paul Sartre</i>, the <i>raison d'être</i> of technology. To me, working in tech industry means participating in the connection journey.</p>
+<br>A girl who studied human languages, history, and social interactions is now learning programming languages, history, and interaction of frameworks and tools. The unique changeover is a good example of connecting and bridging differences - this mentality would be, citing the words of <i>Jean-Paul Sartre</i>, the <i>raison d'être</i> of technology. To me, working in tech industry means participating in the connection journey.</p>
 
 <h4> ...and why Testing?</h4>
-<p>Testing will be a great fit for me. I find the job represents myself very well: The combination of non-tech softskills & tech-savvy hardskills, attention to details for verification and evaluation, process oriented work manner, thorough documentation and communication. Contribution to better quality is a very rewarding part of this job and I want to play the role in continuous improvement of applications. Putting <strong>ISTQB Certification</strong> under my belt, I am interested in <strong>Mobile Application Testing</strong> and <strong>Test Automation</strong> for further specialization.</p>
+<p>Testing will be a great fit for me. I find the job represents myself very well: The combination of non-tech soft skills & tech-savvy hard skills, attention to detail for verification and evaluation, process oriented work manner, thorough documentation and communication. Contribution to better quality is a very rewarding part of this job and I want to play the role in continuous improvement of applications. Putting <strong>ISTQB Certification</strong> under my belt, I am interested in <strong>Mobile Application Testing</strong> and <strong>Test Automation</strong> for further specialization.</p>
 
 <h4>To navigate the website</h4>
 <li> <strong>Project</strong>: My course works from relevant topics</li>
