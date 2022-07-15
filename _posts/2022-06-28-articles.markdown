@@ -17,8 +17,7 @@ description: Collection of related articles on software testing
 ### Summary
 
     
-While taking the UX Design course in 2019, I found this blog community calls "Medium.com" where I could read many helpful articles on the experience design, good layouts and product development.
-Now that I am interested in software testing and this platform is providing a collection of relevant articles matching to the topic.
+While taking the UX Design course in 2019, I found this blog community calls “Medium.com” where I could read many helpful articles on experience design, good layouts, and product development. Now that I am interested in software testing and this platform is providing a collection of relevant articles matching the topic.
 
 [Medium software testing articles](https://medium.com/software-testing-pipeline)
 
