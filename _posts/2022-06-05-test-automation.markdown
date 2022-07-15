@@ -20,12 +20,12 @@ author: sarahyoon
 externalLink: false
 ---
 
-The courses are taken from **Udemy** and the overall purpose of the learning was to obtain basic knowledge in different test automation tools and techniques.
-The duration of the below course works were **4 months (March - June 2022)**.
+The courses are taken from **Udemy** and the overall purpose of the learning was to obtain the basic knowledge in different test automation tools and techniques.
+The duration of the below course works was **4 months (March - June 2022)**.
 
 ## API Testing with Python3 
 
-**Goal: Learning to write test cases using Python3 and running Pytest to validate the data exchange through different API requests of the "WooCommerce", a Wordpress-based online store webpage.**
+**Goal: Learning to write test cases using Python3 and running Pytest to validate the data exchange through different API requests of the "WooCommerce", a WordPress-based online store webpage.**
 
 
 ## Technique
