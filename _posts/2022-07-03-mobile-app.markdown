@@ -45,7 +45,7 @@ The course covers both Android and iOS devices to automate test cases.
 <img src="/assets/videos/Browserstack_android_ColorNote App_adding_note_testcase_video.gif" height=300>
 
 <br>Also, I have run the test on <b>GitHub Actions</b> through the <b>CI integration</b> and the test case has been passed.
-<img src="/assets/videos/github action integration test run.gif" width=500>
+<img src="/assets/videos/github action integration test run.gif" width=700>
 
 ## Technique
 
