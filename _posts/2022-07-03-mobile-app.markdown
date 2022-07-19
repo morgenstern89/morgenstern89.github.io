@@ -64,7 +64,7 @@ The course covers both Android and iOS devices to automate test cases.
 ## Take a Look
 - [Go to Git Repository](https://github.com/morgenstern89/webdriverio-appium-course.git) 
 
-- [Completion of Course](/assets/images/Mobile-App-Testing-with-Appium-and-WebdriverIO.jpg)
+- [Completion of Course](/assets/images/Mobile App Testing with Appium and WebdriverIO.jpg)
 
 
 <!-- [Go to Git Repository](https://github.com/morgenstern89/morgenstern89.github.io.git)  -->
