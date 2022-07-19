@@ -29,7 +29,7 @@ The course covers both Android and iOS devices to automate test cases.
 
 - Mobile Automation with JavaScript
 - Mobile Automation using WebdriverIO & Appium
--  Android & iOS application automation
+-  Android application automation
 -  Building & Optimizing test framework
 -  BrowserStack Integration
 -  GitHub Action CI Integration
@@ -40,7 +40,12 @@ The course covers both Android and iOS devices to automate test cases.
 <br>The video has been recorded while running a test case of an Android note-taking app <b>ColorNote</b> on the device model <b>Pixel 3</b>.
 
 
+<p><br>Then, on <b>BrowserStack</b>, I ran a test case.
+<br>The video has been automatically recorded on BrowserStack.</p>
+<img src="/assets/videos/Browserstack_android_ColorNote App_adding_note_testcase_video.gif" height=300>
 
+<br>Also, I have run the test on <b>GitHub Actions</b> through the <b>CI integration</b> and the test case has been passed.
+<img src="/assets/videos/github action integration test run.gif" width=500>
 
 ## Technique
 
@@ -48,6 +53,7 @@ The course covers both Android and iOS devices to automate test cases.
 - **Javascript**
 - **Android Studio** 
 - **Appium** 
+- **BrowserStack**
 - **Visual Studio Code** as editor of choice
 - **Gitbash**, **Github**
 
@@ -55,7 +61,10 @@ The course covers both Android and iOS devices to automate test cases.
 
 ---
 
-<!-- ## Take a Look  -->
+## Take a Look
+- [Go to Git Repository](https://github.com/morgenstern89/webdriverio-appium-course.git) 
+
+- [Completion of Course](/assets/images/Mobile-App-Testing-with-Appium-and-WebdriverIO.jpg)
 
 
 <!-- [Go to Git Repository](https://github.com/morgenstern89/morgenstern89.github.io.git)  -->
