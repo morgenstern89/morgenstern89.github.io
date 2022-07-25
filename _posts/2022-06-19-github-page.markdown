@@ -23,12 +23,12 @@ externalLink: false
 
 The project was finalized in **June 2022**.
 
-**Goal: The main purpose is to collect all the preparatory works in one place which had been done from different courses to prepare the career transformation to Software Tester.**
+**Goal: The primary purpose is to collect all the preparatory works in one place, which I have invested in preparing the career transformation to Software Tester.**
 
-Besides, customizing a page based on an existing template was a great occasion to fine-tuning the front-end web development skills and knowledge on Git which have been obtained through courses. As Jekyll is a static site generator in Ruby, getting to know about it was additional learning point. 
+Besides, customizing a page based on an existing template was an excellent opportunity to fine-tune the front-end web development skills and knowledge of Git. As Jekyll is a static site generator in Ruby, getting to know about it was an additional learning point.
 
 This work was for creating a Github Page using Jekyll Theme [Indigo](https://github.com/sergiokopplin/indigo).
-<br>In addition to this, I wanted to integrate another Theme for the online CV and for this I have forked a bootstrap template from [Orbit Theme](https://github.com/xriley/Orbit-Theme).
+<br>In addition, I wanted to integrate another Theme for the online CV, and for this, I have forked a bootstrap template from [Orbit Theme](https://github.com/xriley/Orbit-Theme).
 
 ---
 
