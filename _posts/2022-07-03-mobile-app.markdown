@@ -20,8 +20,8 @@ externalLink: false
 
 ## About Project
 
-<!-- The project was finalized in **July 2022**.
- -->
+The project was finalized in **July 2022**.
+
 **Goal: To learn mobile application test automation with the help of Webdriver IO and Appium using an Android emulator.**
 
 The course covers both Android and iOS devices to automate test cases.
