@@ -28,11 +28,11 @@ externalLink: false
 
 **Goal:Understanding UX Design process and as an outcome creating the wireframe of a mobile application.**
 
-After defining the user requirements through user research(interview, survey, usability tests), captured the gathered data and grouped these into an affinity diagram. Then came up with a customer journey map. Based on this, started drafting a high-level sketch of a mobile flight booking app and then digitalized this into a wireframe. 
+After defining the user requirements through user research(interview, survey, usability tests), I captured the gathered data and grouped these into an affinity diagram. Then came up with a customer journey map. Based on this, I started drafting a high-level sketch of a mobile flight booking app and then digitalized this into a wireframe.
 
-This program was my first step closer to the Tech domain, however still without coding knowledge involved. During this time,  I have learned the understanding **Digital Product Development Lifecycle** and **Design Thinking** as a work mentality. 
+his program was my first step closer to the Tech domain; however still without coding knowledge involved. During this time, I have learned the understanding **Digital Product Development Lifecycle** and **Design Thinking** as a work mentality. 
 
-Based on the outcome, later on, I could further invest oin more tech-savvy knowledge such as basic programming, agile software development approach, and finally, software test management which aligns with this framework.
+Based on the outcome, later on, I could further invest in more tech-savvy knowledge such as basic programming, agile software development approach, and software test management, which aligns with this framework.
 
 This work was the final project of the program **Professional Diploma in UX Design** at **UX Design Institute**. My cohort in the program was enrolled in **Fall 2018** and completed the **final examination in 2020**.
 
