@@ -24,7 +24,7 @@ Key components for a brand identity design such as logo, typography, packaging, 
 
 The course ran **from the year 2017 to year 2018**.
 
-<img src="/assets/images/logodrafts.png" width=400>
+<img src="/assets/images/logodrafts.png" width=600>
 
 
 ---
