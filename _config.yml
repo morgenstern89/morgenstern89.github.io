@@ -22,6 +22,7 @@ resume-external: true
 resume-url: https://morgenstern89.github.io/resume/
 
 url: https://morgenstern89.github.io
+baseurl: ""
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
