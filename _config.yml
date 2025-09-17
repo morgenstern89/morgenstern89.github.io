@@ -19,7 +19,7 @@ theme: jekyll-theme-indigo
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://morgenstern89.github.io/resume/
+resume-url: https://yundomiel.github.io/resume/
 
 url: https://morgenstern89.github.io
 baseurl: ""
